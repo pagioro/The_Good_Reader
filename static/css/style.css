@@ -2,6 +2,11 @@ html {
     height: 100%;
 }
 
+#topnav {
+    max-width: 71.875rem;  
+    margin: 0 auto;
+  }
+
 body {
     background: url('/media/bookshop1.jpg') no-repeat center center fixed;
     background-size: cover;
@@ -24,8 +29,7 @@ body {
 }
 
 .main-logo-link {
-    /* width: fit-content; */
-    width: 30%;    
+    width: fit-content;
 }
 
 .account,
