@@ -40,7 +40,7 @@ body {
 }
 
 .bg-black {
-    background: #000 !important;
+    background: rgba(0, 0, 0, 0.7) !important;
 }
 
 .btn-black {
