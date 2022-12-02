@@ -24,7 +24,13 @@ body {
 }
 
 .main-logo-link {
-    width: fit-content;
+    /* width: fit-content; */
+    width: 30%;    
+}
+
+.account,
+.cart {
+    color: #000;
 }
 
 .shop-now-button {
@@ -36,6 +42,14 @@ body {
 .btn-black {
     background: black;
     color: white;
+}
+
+.search {
+    border-radius: 50%;
+}
+
+.search-icon {
+
 }
 
 .shop-now-button:hover,
