@@ -2,11 +2,6 @@ html {
     height: 100%;
 }
 
-#topnav {
-    max-width: 71.875rem;  
-    margin: 0 auto;
-  }
-
 body {
     background: url('/media/bookshop1.jpg') no-repeat center center fixed;
     background-size: cover;
@@ -30,6 +25,7 @@ body {
 
 .main-logo-link {
     width: fit-content;
+    max-height: 140px;
 }
 
 .account,
@@ -43,17 +39,13 @@ body {
     min-width: 260px;
 }
 
+.bg-black {
+    background: #000 !important;
+}
+
 .btn-black {
     background: black;
     color: white;
-}
-
-.search {
-    border-radius: 50%;
-}
-
-.search-icon {
-
 }
 
 .shop-now-button:hover,
