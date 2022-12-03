@@ -1,0 +1,92 @@
+[
+    {
+     "pk":1,
+       "model":"products.product",
+       "fields":{
+          "sku":"BIO00001",
+          "name":"Biography",
+          "author":"Hermione Lee",
+          "description":"Biography is one of the most popular, best-selling, and widely-read of literary genres. But why do certain people and historical events arouse so much interest? How can biographies be compared with history and works of fiction? Does a biography need to be true? Is it acceptable to omit or conceal things? Does the biographer need to personally know the subject? Must a biographer be subjective? In this Very Short Introduction Hermione Lee considers the cultural and historical background of different types of biographies, looking at the factors that affect biographers and whether there are different strategies, ethics, and principles required for writing about one person compared to another. She also considers contemporary biographical publications and considers what kind of 'lives' are the most popular and in demand. ABOUT THE SERIES: The Very Short Introductions series from Oxford University Press contains hundreds of titles in almost every subject area. These pocket-sized books are the perfect way to get ahead in a new subject quickly. Our expert authors combine facts, analysis, perspective, new ideas, and enthusiasm to make interesting and challenging topics highly readable.",
+          "price":12.59,
+          "category":2,
+          "rating":3.8,
+          "image_url":"http://s7d9.scene7.com/is/image/JCPenney/DP0709201205510679M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
+          "image":"biography-hermione-lee.webp"
+       }
+    },
+    {
+       "pk":2,
+          "model":"products.product",
+          "fields":{
+             "sku":"BIO00002",
+             "name":"Brief Lives",
+             "author":"John Aubrey",
+             "description":"John Aubrey's racy portraits of the great figures of 17th-centuryEngland stand alongside Pepys's diary as a vivid evocation of the period. Aubrey was born in 1626, the son of a Wiltshire squire; at the age of 26 he inherited a family estate encumbered with debt, and finally went bankrupt in the 1670s. From then on he led a sociable, rootless existence at the houses of friends - from Oxford and the Middle Temple -pursuing the antiquarian studies which had always obsessed him. At his death in 1697 he left a mass of notes and manuscripts, among them the material for Brief Lives. He never managed to put even a single life into logical order; all we have are the raw materials, scribbled down -`tumultuously as they occurred to my thoughts'. With this full, modern English edition, which reproduces Aubrey's words as closely as possible, Richard Barber introduces us to Aubrey and his world, tells how the Lives came into being and enables many new readers to enjoy this eccentric masterpiece.",
+             "price":30.79,
+             "category":2,
+             "rating":4.3,
+             "image_url":"",
+             "image":"brief-lives.webp"
+          }
+    },
+    {
+       "pk":3,
+          "model":"products.product",
+          "fields":{
+             "sku":"BIO00003",
+             "name":"Journey Across Time",
+             "author":"Susan Gillerman Boggs",
+             "description":"Journey Across Time opens a window to life in South Asia, which has changed vastly since Susan Gillerman Boggs began living there as a diplomat's wife in 1985. In a captivating first-person narrative, Boggs takes the reader to remote places, many now closed to visitors. She describes experiences both exotic and hilarious, and adventures impossible to replicate. The author invites us to share the color and pageantry of festivals, religious rites, and parades of caparisoned elephants. She ventured into the Himalayas on perilous roads and was welcomed into a remote land of former headhunters. She dined with royalty and danced with a maharaja, conversed with Mother Teresa, met President Clinton, and appeared in a film starring Pierce Brosnan. She survived floods, political assassinations, and window-shattering bombs. She was bitten by a grouper in a coral lagoon, sneezed on by an elephant, and cornered in a cul-de-sac by angry bulls. Back on the home front, the author chronicles the daily joys and frustrations of diplomatic life with its cast of senior officials, moguls, intellectuals, and colorful characters. With verve and self-deprecating humor, she describes the tribulations of managing a diplomatic household and orchestrating official events despite personal dramas, logistic challenges, and power outages. Join her in a truly remarkable Journey Across Time.",
+             "price":18.19,
+             "category":2,
+             "rating":4.8,
+             "image_url":"",
+             "image":"journey-across-time.webp"
+          }
+    },
+    {
+       "pk":4,
+          "model":"products.product",
+          "fields":{
+             "sku":"BIO00004",
+             "name":"Modern Architecture A-Z",
+             "author":"Jodidio Philip",
+             "description":"With more than 280 entries, this architectural A-Z, now part of our Bibliotheca Universalis series, offers an indispensable overview of the key players in the creation of modern space. From the period spanning the 19th to the 21st century, pioneering architects are featured with a portrait, concise biography, as well as a description of her or his important work. Like a bespoke global architecture tour, you'll travel from Manhattan skyscrapers to a Japanese concert hall, from Gaudì's Palau Güell in Barcelona to Lina Bo Bardi's sports and leisure center in a former factory site in São Paulo. You'll take in Gio Ponti's colored geometries, Zaha Hadid's free-flowing futurism, the luminous interiors of SANAA, and Charles Rennie Mackintosh's unique blend of Scottish tradition and elegant japonisme. The book's A to Z entries also cover groups, movements, and styles to position these leading individual architects within broader building trends across time and geography, including International Style, Bauhaus, De Stijl, and much more. With illustrations including some of the best architectural photography of the modern era, this is a comprehensive resource for any architecture professional, student, or devotee. About the series Bibliotheca Universalis - Compact cultural companions celebrating the eclectic TASCHEN universe!",
+             "price":22.40,
+             "category":2,
+             "rating":4.4,
+             "image_url":"",
+             "image":"modern-architecture-az.webp"
+          }
+       },
+       {
+       "pk":5,
+          "model":"products.product",
+          "fields":{
+             "sku":"BIO00005",
+             "name":"Biography",
+             "author":"Rudolf Steiner",
+             "description":"The path of an individual human life, our biography, is a kind of mystery. Despite the abundance of published biographies and autobiographies of celebrities and historical figures, scientific study of human biography remains in its infancy, with little understanding of the inherent laws in the path of an individual's life. Yet as Rudolf Steiner shows here, every biography--regardless of one's place in life or a person's perceived importance or success--is ruled by archetypal influences, patterns and laws. This broad-ranging anthology addresses critical and still-unanswered questions: What are the effects of education--especially contrasting educational methods--on later life? How are the stages of one's life interrelated? Do the effects of events on the individual become immediately evident, or is their true impact delayed, perhaps for decades? To what extent can we shape the stages of our individual biographies? How much freedom of choice do we have, and how much of life is predetermined? Drawing on his capacity for higher knowledge through spiritual research, Steiner describes the human individuality as a being with a continuing existence, both before birth and beyond death. Our eternal being experiences a myriad of conditions and situations, the effects of which may be observed in one's biography. This book addresses these and other issues such as freedom and destiny, the effects of heredity, illness, and the impact of education, offering answers based on a profound knowledge of the human being.",
+             "price":18.59,
+             "category":2,
+             "rating":4.2,
+             "image_url":"",
+             "image":"biography-rudolf-steiner.webp"
+          }
+       },
+       {
+          "pk":6,
+             "model":"products.product",
+             "fields":{
+                "sku":"CON00001",
+                "name":"Conservatism",
+                "author":"Roger Scruton",
+                "description":"A brief magisterial introduction to the conservative tradition by one of Britain’s leading intellectuals. In Conservatism, Roger Scruton offers the reader an invitation into the world of political philosophy by explaining the history and evolution of the conservative movement over the centuries. With the clarity and authority of a gifted teacher, he discusses the ideology's perspective on civil society, the rule of law, freedom, morality, property, rights, and the role of the state. In a time when many claim that conservatives lack a unified intellectual belief system, this book makes a very strong case to the contrary, one that politically-minded readers will find compelling and refreshing. Scruton analyzes the origins and development of conservatism through the philosophies and thoughts of John Locke, Thomas Hobbes, Adam Smith and Milton Friedman, among others. He shows how conservative ideas have influenced the political sector through the careers of a diverse cast of politicians, such as Thomas Jefferson, Benjamin Disraeli, Ronald Reagan and Margaret Thatcher. He also takes a close look at the changing relationship between conservative politics, capitalism, and free markets in both the UK and the US. This clear, incisive guide is essential reading for anyone wishing to understand Western politics and policies, now and over the last three centuries.",
+                "price":23.79,
+                "category":1,
+                "rating":4.8,
+                "image_url":"",
+                "image":"conservatism.webp"
+             }
+       }
+ ]    
