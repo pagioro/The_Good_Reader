@@ -8,85 +8,370 @@
           "author":"Hermione Lee",
           "description":"Biography is one of the most popular, best-selling, and widely-read of literary genres. But why do certain people and historical events arouse so much interest? How can biographies be compared with history and works of fiction? Does a biography need to be true? Is it acceptable to omit or conceal things? Does the biographer need to personally know the subject? Must a biographer be subjective? In this Very Short Introduction Hermione Lee considers the cultural and historical background of different types of biographies, looking at the factors that affect biographers and whether there are different strategies, ethics, and principles required for writing about one person compared to another. She also considers contemporary biographical publications and considers what kind of 'lives' are the most popular and in demand. ABOUT THE SERIES: The Very Short Introductions series from Oxford University Press contains hundreds of titles in almost every subject area. These pocket-sized books are the perfect way to get ahead in a new subject quickly. Our expert authors combine facts, analysis, perspective, new ideas, and enthusiasm to make interesting and challenging topics highly readable.",
           "price":12.59,
-          "category":2,
+          "category":1,
           "rating":3.8,
-          "image_url":"http://s7d9.scene7.com/is/image/JCPenney/DP0709201205510679M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
-          "image":"biography-hermione-lee.webp"
+          "image_url":"",
+          "image":"biography-hermione-lee.webp" 
        }
     },
     {
-       "pk":2,
-          "model":"products.product",
-          "fields":{
-             "sku":"BIO00002",
-             "name":"Brief Lives",
-             "author":"John Aubrey",
-             "description":"John Aubrey's racy portraits of the great figures of 17th-centuryEngland stand alongside Pepys's diary as a vivid evocation of the period. Aubrey was born in 1626, the son of a Wiltshire squire; at the age of 26 he inherited a family estate encumbered with debt, and finally went bankrupt in the 1670s. From then on he led a sociable, rootless existence at the houses of friends - from Oxford and the Middle Temple -pursuing the antiquarian studies which had always obsessed him. At his death in 1697 he left a mass of notes and manuscripts, among them the material for Brief Lives. He never managed to put even a single life into logical order; all we have are the raw materials, scribbled down -`tumultuously as they occurred to my thoughts'. With this full, modern English edition, which reproduces Aubrey's words as closely as possible, Richard Barber introduces us to Aubrey and his world, tells how the Lives came into being and enables many new readers to enjoy this eccentric masterpiece.",
-             "price":30.79,
-             "category":2,
-             "rating":4.3,
-             "image_url":"",
-             "image":"brief-lives.webp"
-          }
-    },
-    {
-       "pk":3,
-          "model":"products.product",
-          "fields":{
-             "sku":"BIO00003",
-             "name":"Journey Across Time",
-             "author":"Susan Gillerman Boggs",
-             "description":"Journey Across Time opens a window to life in South Asia, which has changed vastly since Susan Gillerman Boggs began living there as a diplomat's wife in 1985. In a captivating first-person narrative, Boggs takes the reader to remote places, many now closed to visitors. She describes experiences both exotic and hilarious, and adventures impossible to replicate. The author invites us to share the color and pageantry of festivals, religious rites, and parades of caparisoned elephants. She ventured into the Himalayas on perilous roads and was welcomed into a remote land of former headhunters. She dined with royalty and danced with a maharaja, conversed with Mother Teresa, met President Clinton, and appeared in a film starring Pierce Brosnan. She survived floods, political assassinations, and window-shattering bombs. She was bitten by a grouper in a coral lagoon, sneezed on by an elephant, and cornered in a cul-de-sac by angry bulls. Back on the home front, the author chronicles the daily joys and frustrations of diplomatic life with its cast of senior officials, moguls, intellectuals, and colorful characters. With verve and self-deprecating humor, she describes the tribulations of managing a diplomatic household and orchestrating official events despite personal dramas, logistic challenges, and power outages. Join her in a truly remarkable Journey Across Time.",
-             "price":18.19,
-             "category":2,
-             "rating":4.8,
-             "image_url":"",
-             "image":"journey-across-time.webp"
-          }
-    },
-    {
-       "pk":4,
-          "model":"products.product",
-          "fields":{
-             "sku":"BIO00004",
-             "name":"Modern Architecture A-Z",
-             "author":"Jodidio Philip",
-             "description":"With more than 280 entries, this architectural A-Z, now part of our Bibliotheca Universalis series, offers an indispensable overview of the key players in the creation of modern space. From the period spanning the 19th to the 21st century, pioneering architects are featured with a portrait, concise biography, as well as a description of her or his important work. Like a bespoke global architecture tour, you'll travel from Manhattan skyscrapers to a Japanese concert hall, from Gaudì's Palau Güell in Barcelona to Lina Bo Bardi's sports and leisure center in a former factory site in São Paulo. You'll take in Gio Ponti's colored geometries, Zaha Hadid's free-flowing futurism, the luminous interiors of SANAA, and Charles Rennie Mackintosh's unique blend of Scottish tradition and elegant japonisme. The book's A to Z entries also cover groups, movements, and styles to position these leading individual architects within broader building trends across time and geography, including International Style, Bauhaus, De Stijl, and much more. With illustrations including some of the best architectural photography of the modern era, this is a comprehensive resource for any architecture professional, student, or devotee. About the series Bibliotheca Universalis - Compact cultural companions celebrating the eclectic TASCHEN universe!",
-             "price":22.40,
-             "category":2,
-             "rating":4.4,
-             "image_url":"",
-             "image":"modern-architecture-az.webp"
-          }
-       },
-       {
-       "pk":5,
-          "model":"products.product",
-          "fields":{
-             "sku":"BIO00005",
-             "name":"Biography",
-             "author":"Rudolf Steiner",
-             "description":"The path of an individual human life, our biography, is a kind of mystery. Despite the abundance of published biographies and autobiographies of celebrities and historical figures, scientific study of human biography remains in its infancy, with little understanding of the inherent laws in the path of an individual's life. Yet as Rudolf Steiner shows here, every biography--regardless of one's place in life or a person's perceived importance or success--is ruled by archetypal influences, patterns and laws. This broad-ranging anthology addresses critical and still-unanswered questions: What are the effects of education--especially contrasting educational methods--on later life? How are the stages of one's life interrelated? Do the effects of events on the individual become immediately evident, or is their true impact delayed, perhaps for decades? To what extent can we shape the stages of our individual biographies? How much freedom of choice do we have, and how much of life is predetermined? Drawing on his capacity for higher knowledge through spiritual research, Steiner describes the human individuality as a being with a continuing existence, both before birth and beyond death. Our eternal being experiences a myriad of conditions and situations, the effects of which may be observed in one's biography. This book addresses these and other issues such as freedom and destiny, the effects of heredity, illness, and the impact of education, offering answers based on a profound knowledge of the human being.",
-             "price":18.59,
-             "category":2,
-             "rating":4.2,
-             "image_url":"",
-             "image":"biography-rudolf-steiner.webp"
-          }
-       },
-       {
-          "pk":6,
-             "model":"products.product",
-             "fields":{
-                "sku":"CON00001",
-                "name":"Conservatism",
-                "author":"Roger Scruton",
-                "description":"A brief magisterial introduction to the conservative tradition by one of Britain’s leading intellectuals. In Conservatism, Roger Scruton offers the reader an invitation into the world of political philosophy by explaining the history and evolution of the conservative movement over the centuries. With the clarity and authority of a gifted teacher, he discusses the ideology's perspective on civil society, the rule of law, freedom, morality, property, rights, and the role of the state. In a time when many claim that conservatives lack a unified intellectual belief system, this book makes a very strong case to the contrary, one that politically-minded readers will find compelling and refreshing. Scruton analyzes the origins and development of conservatism through the philosophies and thoughts of John Locke, Thomas Hobbes, Adam Smith and Milton Friedman, among others. He shows how conservative ideas have influenced the political sector through the careers of a diverse cast of politicians, such as Thomas Jefferson, Benjamin Disraeli, Ronald Reagan and Margaret Thatcher. He also takes a close look at the changing relationship between conservative politics, capitalism, and free markets in both the UK and the US. This clear, incisive guide is essential reading for anyone wishing to understand Western politics and policies, now and over the last three centuries.",
-                "price":23.79,
-                "category":1,
-                "rating":4.8,
-                "image_url":"",
-                "image":"conservatism.webp"
-             }
+     "pk":1,
+       "model":"products.product",
+       "fields":{
+          "sku":"BIO00002",
+          "name":"Brief Lives",
+          "author":"John Aubrey",
+          "description":"John Aubrey's racy portraits of the great figures of 17th-centuryEngland stand alongside Pepys's diary as a vivid evocation of the period. Aubrey was born in 1626, the son of a Wiltshire squire; at the age of 26 he inherited a family estate encumbered with debt, and finally went bankrupt in the 1670s. From then on he led a sociable, rootless existence at the houses of friends - from Oxford and the Middle Temple -pursuing the antiquarian studies which had always obsessed him. At his death in 1697 he left a mass of notes and manuscripts, among them the material for Brief Lives. He never managed to put even a single life into logical order; all we have are the raw materials, scribbled down -`tumultuously as they occurred to my thoughts'. With this full, modern English edition, which reproduces Aubrey's words as closely as possible, Richard Barber introduces us to Aubrey and his world, tells how the Lives came into being and enables many new readers to enjoy this eccentric masterpiece.",
+          "price":30.79,
+          "category":1,
+          "rating":4.3,
+          "image_url":"",
+          "image":"brief-lives.webp"
        }
- ]    
+    },
+    {
+     "pk":1,
+       "model":"products.product",
+       "fields":{
+          "sku":"BIO00003",
+          "name":"Journey Across Time",
+          "author":"Susan Gillerman Boggs",
+          "description":"Journey Across Time opens a window to life in South Asia, which has changed vastly since Susan Gillerman Boggs began living there as a diplomat's wife in 1985. In a captivating first-person narrative, Boggs takes the reader to remote places, many now closed to visitors. She describes experiences both exotic and hilarious, and adventures impossible to replicate. The author invites us to share the color and pageantry of festivals, religious rites, and parades of caparisoned elephants. She ventured into the Himalayas on perilous roads and was welcomed into a remote land of former headhunters. She dined with royalty and danced with a maharaja, conversed with Mother Teresa, met President Clinton, and appeared in a film starring Pierce Brosnan. She survived floods, political assassinations, and window-shattering bombs. She was bitten by a grouper in a coral lagoon, sneezed on by an elephant, and cornered in a cul-de-sac by angry bulls. Back on the home front, the author chronicles the daily joys and frustrations of diplomatic life with its cast of senior officials, moguls, intellectuals, and colorful characters. With verve and self-deprecating humor, she describes the tribulations of managing a diplomatic household and orchestrating official events despite personal dramas, logistic challenges, and power outages. Join her in a truly remarkable Journey Across Time.",
+          "price":18.19,
+          "category":1,
+          "rating":4.8,
+          "image_url":"",
+          "image":"journey-across-time.webp"
+       }
+    },
+    {
+     "pk":1,
+       "model":"products.product",
+       "fields":{
+          "sku":"BIO00004",
+          "name":"Modern Architecture A-Z",
+          "author":"Jodidio Philip",
+          "description":"With more than 280 entries, this architectural A-Z, now part of our Bibliotheca Universalis series, offers an indispensable overview of the key players in the creation of modern space. From the period spanning the 19th to the 21st century, pioneering architects are featured with a portrait, concise biography, as well as a description of her or his important work. Like a bespoke global architecture tour, you'll travel from Manhattan skyscrapers to a Japanese concert hall, from Gaudì's Palau Güell in Barcelona to Lina Bo Bardi's sports and leisure center in a former factory site in São Paulo. You'll take in Gio Ponti's colored geometries, Zaha Hadid's free-flowing futurism, the luminous interiors of SANAA, and Charles Rennie Mackintosh's unique blend of Scottish tradition and elegant japonisme. The book's A to Z entries also cover groups, movements, and styles to position these leading individual architects within broader building trends across time and geography, including International Style, Bauhaus, De Stijl, and much more. With illustrations including some of the best architectural photography of the modern era, this is a comprehensive resource for any architecture professional, student, or devotee. About the series Bibliotheca Universalis - Compact cultural companions celebrating the eclectic TASCHEN universe!",
+          "price":22.40,
+          "category":1,
+          "rating":4.4,
+          "image_url":"",
+          "image":"modern-architecture-az.webp"
+       }
+    },
+    {
+     "pk":1,
+       "model":"products.product",
+       "fields":{
+          "sku":"BIO00005",
+          "name":"Biography",
+          "author":"Rudolf Steiner",
+          "description":"The path of an individual human life, our biography, is a kind of mystery. Despite the abundance of published biographies and autobiographies of celebrities and historical figures, scientific study of human biography remains in its infancy, with little understanding of the inherent laws in the path of an individual's life. Yet as Rudolf Steiner shows here, every biography--regardless of one's place in life or a person's perceived importance or success--is ruled by archetypal influences, patterns and laws. This broad-ranging anthology addresses critical and still-unanswered questions: What are the effects of education--especially contrasting educational methods--on later life? How are the stages of one's life interrelated? Do the effects of events on the individual become immediately evident, or is their true impact delayed, perhaps for decades? To what extent can we shape the stages of our individual biographies? How much freedom of choice do we have, and how much of life is predetermined? Drawing on his capacity for higher knowledge through spiritual research, Steiner describes the human individuality as a being with a continuing existence, both before birth and beyond death. Our eternal being experiences a myriad of conditions and situations, the effects of which may be observed in one's biography. This book addresses these and other issues such as freedom and destiny, the effects of heredity, illness, and the impact of education, offering answers based on a profound knowledge of the human being.",
+          "price":18.59,
+          "category":1,
+          "rating":4.2,
+          "image_url":"",
+          "image":"biography-rudolf-steiner.webp"
+       }
+    },
+    {
+     "pk":2,
+       "model":"products.product",
+       "fields":{
+          "sku":"CON00001",
+          "name":"Conservatism",
+          "author":"Roger Scruton",
+          "description":"A brief magisterial introduction to the conservative tradition by one of Britain’s leading intellectuals. In Conservatism, Roger Scruton offers the reader an invitation into the world of political philosophy by explaining the history and evolution of the conservative movement over the centuries. With the clarity and authority of a gifted teacher, he discusses the ideology's perspective on civil society, the rule of law, freedom, morality, property, rights, and the role of the state. In a time when many claim that conservatives lack a unified intellectual belief system, this book makes a very strong case to the contrary, one that politically-minded readers will find compelling and refreshing. Scruton analyzes the origins and development of conservatism through the philosophies and thoughts of John Locke, Thomas Hobbes, Adam Smith and Milton Friedman, among others. He shows how conservative ideas have influenced the political sector through the careers of a diverse cast of politicians, such as Thomas Jefferson, Benjamin Disraeli, Ronald Reagan and Margaret Thatcher. He also takes a close look at the changing relationship between conservative politics, capitalism, and free markets in both the UK and the US. This clear, incisive guide is essential reading for anyone wishing to understand Western politics and policies, now and over the last three centuries.",
+          "price":23.79,
+          "category":2,
+          "rating":4.8,
+          "image_url":"",
+          "image":"conservatism.webp"
+       }
+    },
+    {
+     "pk":2,
+       "model":"products.product",
+       "fields":{
+          "sku":"CON00002",
+          "name":"The Right",
+          "author":"Matthew Continetti ",
+          "description":"When most people think of the history of modern conservatism, they think of Ronald Reagan. Yet this narrow view leaves many to question: How did Donald Trump win the presidency? And what is the future of the Republican Party? In The Right, Matthew Continetti gives a sweeping account of movement conservatism’s evolution, from the Progressive Era through the present. He tells the story of how conservatism began as networks of intellectuals, developing and institutionalizing a vision that grew over time, until they began to buckle under new pressures, resembling national populist movements. Drawing out the tensions between the desire for mainstream acceptance and the pull of extremism, Continetti argues that the more one studies conservatism’s past, the more one becomes convinced of its future. Deeply researched and brilliantly told, The Right is essential reading for anyone looking to understand American conservatism.",
+          "price":20.99,
+          "category":2,
+          "rating":4.5,
+          "image_url":"",
+          "image":"the-right.webp"
+       }
+    },
+    {
+     "pk":2,
+       "model":"products.product",
+       "fields":{
+          "sku":"CON00003",
+          "name":"The Soul of the World",
+          "author":"Roger Scruton",
+          "description":"In The Soul of the World, renowned philosopher Roger Scruton defends the experience of the sacred against today's fashionable forms of atheism. He argues that our personal relationships, moral intuitions, and aesthetic judgments hint at a transcendent dimension that cannot be understood through the lens of science alone. To be fully alive―and to understand what we are―is to acknowledge the reality of sacred things. Rather than an argument for the existence of God, or a defense of the truth of religion, the book is an extended reflection on why a sense of the sacred is essential to human life―and what the final loss of the sacred would mean. In short, the book addresses the most important question of modernity: what is left of our aspirations after science has delivered its verdict about what we are? Drawing on art, architecture, music, and literature, Scruton suggests that the highest forms of human experience and expression tell the story of our religious need, and of our quest for the being who might answer it, and that this search for the sacred endows the world with a soul. Evolution cannot explain our conception of the sacred; neuroscience is irrelevant to our interpersonal relationships, which provide a model for our posture toward God; and scientific understanding has nothing to say about the experience of beauty, which provides a God’s-eye perspective on reality. Ultimately, a world without the sacred would be a completely different world―one in which we humans are not truly at home. Yet despite the shrinking place for the sacred in today’s world, Scruton says, the paths to transcendence remain open.",
+          "price":20.99,
+          "category":2,
+          "rating":4.7,
+          "image_url":"",
+          "image":"the-soul-of-the-world.webp"
+       }
+    },
+    {
+     "pk":2,
+       "model":"products.product",
+       "fields":{
+          "sku":"CON00004",
+          "name":"10 Books That Screwed Up the World",
+          "author":"Benjamin Wiker ",
+          "description":"Following up his 10 Books That Screwed Up the World, author Benjamin Wiker brings you 10 Books Every Conservative Must Read: Plus Four Not to Miss and One Impostor. Offering a guide to some of the most important literary works of our time, Wiker turns his discerning eye from the great texts that have done so much damage to Western Civilization to the great texts that could help rebuild it. 10 Books Every Conservative Must Read features a range of works from classics such as Democracy in America and The Federalist and Anti-Federalist Papers, to more "pop" classics like Sense and Sensibility and The Tempest. Through these works, Wiker reveals some of the most important lessons for our time as well as the true meaning of conservatism. Written with an educational purpose and witty tone, this is a must-read for conservatives, Republicans, and booklovers everywhere!",
+          "price":25.70,
+          "category":2,
+          "rating":4.0,
+          "image_url":"",
+          "image":"10-books-every-conservative-must-read.webp"
+       }
+    },
+    {
+     "pk":2,
+       "model":"products.product",
+       "fields":{
+          "sku":"CON00005",
+          "name":"The Meaning of Conservatism ",
+          "author":"Roger Scruton",
+          "description":"First published in 1980, The Meaning of Conservatism is now recognized as a major contribution to political thought, and the liveliest and most provocative modern statement of the traditional "paleo-conservative" position. Roger Scruton challenges those who would regard themselves as conservatives, and also their opponents. Conservatism, he argues, has little in common with liberalism, and is only tenuously related to the market economy, to monetarism, to free enterprise, or to capitalism. It involves neither hostility toward the state, not the desire to limit the state's obligation toward the citizen. Its conceptions of society, law, and citizenship regard the individual not as the premise but as the conclusion of politics. At the same time it is fundamentally opposed to the ethic of social justice, to equality of station, opportunity, income, and achievement, and to the attempt to bring major institutions of society - such as schools and universities - under government control. Its root conceptions are those of loyalty, allegiance, community, and tradition. The conservative vision of society is one in which autonomous institutions and private initiative predominate, and in which the law protects the shared values that bind the community together, rather than the rights of those who would blow the community apart.",
+          "price":33.60,
+          "category":2,
+          "rating":3.7,
+          "image_url":"",
+          "image":"the-meaning-of-conservatism.webp"
+       }
+    },
+    {
+     "pk":3,
+       "model":"products.product",
+       "fields":{
+          "sku":"FIT00001",
+          "name":"Fitness Weight Training",
+          "author":"Thomas R Baechle",
+          "description":"Whether you've been a regular at the gym for years or are just getting started, Fitness Weight Training contains proven programs for attaining the body you want! Expanded, enhanced, and improved, this new edition of the perennial best-selling guide provides an overview of weight training. From equipment selection to exercise technique, Fitness Weight Training has the information you need to get to work quickly, safely, and correctly. Best of all, you will find 75 programs for muscle toning, body shaping, and pure strength training. Just determine your objective and use the color-coded six-week-long workout zones-or levels of difficulty and intensity-to achieve your goal. With more than 60 of the most effective exercises to choose from, you can tailor your routine to the time, energy, and equipment available. Make every minute in the weight room count. Make Fitness Weight Training your workout guide and achieve your goals for training.",
+          "price":23.79,
+          "category":3,
+          "rating":4.1,
+          "image_url":"",
+          "image":"fitness-weight-training.webp"
+       }
+    },
+    {
+     "pk":3,
+       "model":"products.product",
+       "fields":{
+          "sku":"FIT00002",
+          "name":"Fitness for Life",
+          "author":"Charles B. Corbin",
+          "description":"Fitness for Life provides teachers and students with the most comprehensive and current evidence- and standards-based content available to help students to become physically literate and to be physically active throughout their lives. The seventh edition of this Texty Award-winning text is based on established education theory and follows a pedagogically sound scope and sequence to enhance learning and help students take responsibility for their own activity, fitness, health, and wellness. New to This Edition Fitness for Life is more than a fitness education program-it's a conceptual physical education (CPE) program that addresses all national physical education standards. New features include the following: Fully updated content includes new videos, photos, and ancillaries.Universal design principles provide accessibility for all students.Reorganized chapters enhance content flow.New emphasis is placed on physical literacy and health literacy .There is expanded coverage of social-emotional learning .A modular approach and a comprehensive teacher's guide support different schedules and remote learning, in-class learning, and blended approaches.A new delivery platform , HKPropel , allows teachers to assign worksheets and projects, check on student progress, receive reports, and automatically scores tests.An online teacher training course , free to adopters of the student text, includes a test for those who want to earn a certificate of completion.Student and Teacher Resources Fitness for Life comes with an array of resources, including a print text and ebook with web resource, an interactive web text, and teacher ancillaries. The student text offers 21 chapters in seven units. Chapters include lesson objectives, vocabulary words, muscle art, and self-assessments. Other special features in the book include Tech Trends, Fit Facts, Science in Action, Academic Connection, Taking Action activities, and Consumer Corner. To assist students using the print book or ebook, the Fitness for Life, Seventh Edition, Web Resource features easy access to material referenced in the text, including vocabulary terms with English and Spanish definitions and audio pronunciations, worksheets, and chapter reviews. Fitness for Life, Seventh Edition, is also available as an interactive web text, which students can access from a computer, tablet, or mobile device. The student interactive web textbook contains the same content as the print book but uses interactive audio, video, worksheets, and other great activities to help students engage with the material and enhance learning. The interactive web textbook offers audio vocabulary and definitions in English and Spanish. Introductory videos at the beginning of each lesson help students assess their knowledge going in, while videos at the end of each lesson help students put what they've learned into context. Enduring Features of This Iconic TextMeets SHAPE America's latest grade-level standards and outcomesEmploys Dr. Corbin's iconic HELP philosophy and Stairway to Lifetime Fitness, Health, and Wellness approachHelps students become informed consumers about physical activity and fitnessHelps develop students' self-management skillsSeparates fitness facts from fiction With its updated content and its new online training course, delivery platform, and ancillaries, Fitness for Life, Seventh Edition, is ideally suited to instruction in a gym, outdoors, in a classroom, entirely online, or in a blended approach. Note: A code for accessing HKPropel is included with all new print books.",
+          "price":88.20,
+          "category":3,
+          "rating":4.9,
+          "image_url":"",
+          "image":"fitness-for-life.webp"
+       }
+    },
+    {
+     "pk":3,
+       "model":"products.product",
+       "fields":{
+          "sku":"FIT00003",
+          "name":"Fitness For Dummies",
+          "author":"Schlosberg Suzanne",
+          "description":"The latest and greatest in getting fit and staying that way! Fitness For Dummies, 4th Edition, provides the latest information and advice for properly shaping, conditioning, and strengthening your body to enhance overall fitness and health. With the help of fitness professionals Suzanne Schlosberg and Liz Neporent, you'll learn to set and achieve realistic fitness goals without expensive fitness club fees! Achieve motivation and social support from social networking sites such as Twitter and Facebook Take advantage of digital resources such as e-exercising programs, video instructors, digital training systems, apps, and more Gives you the latest tips and methods to test your own fitness level, set realistic goals, stick with your program, and get great results Shows you how to spot where fat is sneaking into your diet Get the most out of high-tech exercise machines and equipment, plus tips for using dumbbells or a simple jump rope to achieve results Offers step-by-step instructions on creating a home gym on a budget Featuring all-new informative fitness photos and illustrations, this revised edition of Fitness For Dummies is all you need to get on track to a healthy new body!",
+          "price":22.39,
+          "category":3,
+          "rating":4.2,
+          "image_url":"",
+          "image":"fitness-for-dummies.webp"
+       }
+    },
+    {
+     "pk":3,
+       "model":"products.product",
+       "fields":{
+          "sku":"FIT00004",
+          "name":"Fitness Chef Still Tasty",
+          "author":"Tomlinson Graeme",
+          "description":"One of the Evening Standard best diet books for 2021. SMALL CHANGES, BIG RESULTS. You don't need a fad diet. You don't need to sign up to a slimming club. You don't need to replace carbs, sugar, pizza, burgers or fry ups with bland alternatives. This is the simplest, easiest way to lose weight. To lose weight you need to reduce your calorie intake. You can do that AND enjoy what you eat. Graeme Tomlinson - nutrition coach and founder of phenomenal Instagram account, The Fitness Chef - shows you how a few small adjustments to your favourite recipes can significantly reduce calories. With 100 mouthwatering, lower-calorie versions of the most popular recipes Graeme's 700,000+ followers love, this book will enable you to regularly enjoy your favourite foods and still manage your weight for the rest of your life.",
+          "price":23.80,
+          "category":3,
+          "rating":3.9,
+          "image_url":"",
+          "image":"fitness-chef-still-tasty.webp"
+       }
+    },
+    {
+     "pk":3,
+       "model":"products.product",
+       "fields":{
+          "sku":"FIT00005",
+          "name":"The Fitness Mindset",
+          "author":"Brian Keane",
+          "description":"How would it feel to have the body you've always wanted, a huge boost in energy, and the mindset to keep it forever? Have you ever felt frustrated about not getting the results you want? Do you feel you are eating the right foods and doing the correct workouts but your body still isn't changing as quickly as you want? Are you grinding through your workday with low energy levels, praying for the next day off so you can sleep in? If this sounds familiar, then The Fitness Mindset is the book for you. The Fitness Mindset gives you everything you need to get the body you've always dreamed of, ramp your energy levels through the roof and develop the mindset to keep it forever. When you read this book and implement Brian's proven strategies, you will: Know exactly what foods work best for you and how to eat to increase energy, lose fat and build lean muscleLearn how to combine tension-style workouts and high intensity interval training (hiit) to build the body you've always wantedBuild better habits and find your 'why' so you never lose motivation againDevelop strategies to minimise stress, anxiety and the fear of rebounding so you can create a bulletproof body and mindFinally get into the best physical and mental shape of your life.",
+          "price":16.79,
+          "category":3,
+          "rating":3.8,
+          "image_url":"",
+          "image":"the-fitness-mindset.webp"
+       }
+    },
+    {
+     "pk":4,
+       "model":"products.product",
+       "fields":{
+          "sku":"",
+          "name":"",
+          "author":"",
+          "description":"",
+          "price":,
+          "category":4,
+          "rating":3.8,
+          "image_url":"",
+          "image":".webp"
+       }
+    },
+    {
+     "pk":4,
+       "model":"products.product",
+       "fields":{
+          "sku":"",
+          "name":"",
+          "author":"",
+          "description":"",
+          "price":,
+          "category":4,
+          "rating":3.8,
+          "image_url":"",
+          "image":".webp"
+       }
+    },
+    {
+     "pk":4,
+       "model":"products.product",
+       "fields":{
+          "sku":"",
+          "name":"",
+          "author":"",
+          "description":"",
+          "price":,
+          "category":4,
+          "rating":3.8,
+          "image_url":"",
+          "image":".webp"
+       }
+    },
+    {
+     "pk":4,
+       "model":"products.product",
+       "fields":{
+          "sku":"",
+          "name":"",
+          "author":"",
+          "description":"",
+          "price":,
+          "category":4,
+          "rating":3.8,
+          "image_url":"",
+          "image":".webp"
+       }
+    },
+    {
+     "pk":4,
+       "model":"products.product",
+       "fields":{
+          "sku":"",
+          "name":"",
+          "author":"",
+          "description":"",
+          "price":,
+          "category":4,
+          "rating":3.8,
+          "image_url":"",
+          "image":".webp"
+       }
+    },
+    {
+     "pk":5,
+       "model":"products.product",
+       "fields":{
+          "sku":"",
+          "name":"",
+          "author":"",
+          "description":"",
+          "price":,
+          "category":5,
+          "rating":3.8,
+          "image_url":"",
+          "image":".webp"
+       }
+    },
+    {
+     "pk":5,
+       "model":"products.product",
+       "fields":{
+          "sku":"",
+          "name":"",
+          "author":"",
+          "description":"",
+          "price":,
+          "category":5,
+          "rating":3.8,
+          "image_url":"",
+          "image":".webp"
+       }
+    },
+    {
+     "pk":5,
+       "model":"products.product",
+       "fields":{
+          "sku":"",
+          "name":"",
+          "author":"",
+          "description":"",
+          "price":,
+          "category":5,
+          "rating":3.8,
+          "image_url":"",
+          "image":".webp"
+       }
+    },
+    {
+     "pk":5,
+       "model":"products.product",
+       "fields":{
+          "sku":"",
+          "name":"",
+          "author":"",
+          "description":"",
+          "price":,
+          "category":5,
+          "rating":3.8,
+          "image_url":"",
+          "image":".webp"
+       }
+    },
+    {
+     "pk":5,
+       "model":"products.product",
+       "fields":{
+          "sku":"",
+          "name":"",
+          "author":"",
+          "description":"",
+          "price":,
+          "category":5,
+          "rating":3.8,
+          "image_url":"",
+          "image":".webp"
+       }
+    },
+ ]  
