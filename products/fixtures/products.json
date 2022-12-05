@@ -15,7 +15,7 @@
        }
     },
     {
-     "pk":1,
+     "pk":2,
        "model":"products.product",
        "fields":{
           "sku":"BIO00002",
@@ -30,7 +30,7 @@
        }
     },
     {
-     "pk":1,
+     "pk":3,
        "model":"products.product",
        "fields":{
           "sku":"BIO00003",
@@ -45,7 +45,7 @@
        }
     },
     {
-     "pk":1,
+     "pk":4,
        "model":"products.product",
        "fields":{
           "sku":"BIO00004",
@@ -60,7 +60,7 @@
        }
     },
     {
-     "pk":1,
+     "pk":5,
        "model":"products.product",
        "fields":{
           "sku":"BIO00005",
@@ -75,7 +75,7 @@
        }
     },
     {
-     "pk":2,
+     "pk":6,
        "model":"products.product",
        "fields":{
           "sku":"CON00001",
@@ -90,7 +90,7 @@
        }
     },
     {
-     "pk":2,
+     "pk":7,
        "model":"products.product",
        "fields":{
           "sku":"CON00002",
@@ -105,7 +105,7 @@
        }
     },
     {
-     "pk":2,
+     "pk":8,
        "model":"products.product",
        "fields":{
           "sku":"CON00003",
@@ -120,7 +120,7 @@
        }
     },
     {
-     "pk":2,
+     "pk":9,
        "model":"products.product",
        "fields":{
           "sku":"CON00004",
@@ -135,7 +135,7 @@
        }
     },
     {
-     "pk":2,
+     "pk":10,
        "model":"products.product",
        "fields":{
           "sku":"CON00005",
@@ -150,7 +150,7 @@
        }
     },
     {
-     "pk":3,
+     "pk":11,
        "model":"products.product",
        "fields":{
           "sku":"FIT00001",
@@ -165,7 +165,7 @@
        }
     },
     {
-     "pk":3,
+     "pk":12,
        "model":"products.product",
        "fields":{
           "sku":"FIT00002",
@@ -180,7 +180,7 @@
        }
     },
     {
-     "pk":3,
+     "pk":13,
        "model":"products.product",
        "fields":{
           "sku":"FIT00003",
@@ -195,7 +195,7 @@
        }
     },
     {
-     "pk":3,
+     "pk":14,
        "model":"products.product",
        "fields":{
           "sku":"FIT00004",
@@ -210,7 +210,7 @@
        }
     },
     {
-     "pk":3,
+     "pk":15,
        "model":"products.product",
        "fields":{
           "sku":"FIT00005",
@@ -225,7 +225,7 @@
        }
     },
     {
-     "pk":4,
+     "pk":16,
        "model":"products.product",
        "fields":{
           "sku":"",
@@ -240,7 +240,7 @@
        }
     },
     {
-     "pk":4,
+     "pk":17,
        "model":"products.product",
        "fields":{
           "sku":"",
@@ -255,7 +255,7 @@
        }
     },
     {
-     "pk":4,
+     "pk":18,
        "model":"products.product",
        "fields":{
           "sku":"",
@@ -270,7 +270,7 @@
        }
     },
     {
-     "pk":4,
+     "pk":19,
        "model":"products.product",
        "fields":{
           "sku":"",
@@ -285,7 +285,7 @@
        }
     },
     {
-     "pk":4,
+     "pk":20,
        "model":"products.product",
        "fields":{
           "sku":"",
@@ -300,7 +300,7 @@
        }
     },
     {
-     "pk":5,
+     "pk":21,
        "model":"products.product",
        "fields":{
           "sku":"",
@@ -315,7 +315,7 @@
        }
     },
     {
-     "pk":5,
+     "pk":22,
        "model":"products.product",
        "fields":{
           "sku":"",
@@ -330,7 +330,7 @@
        }
     },
     {
-     "pk":5,
+     "pk":23,
        "model":"products.product",
        "fields":{
           "sku":"",
@@ -345,7 +345,7 @@
        }
     },
     {
-     "pk":5,
+     "pk":24,
        "model":"products.product",
        "fields":{
           "sku":"",
@@ -360,7 +360,7 @@
        }
     },
     {
-     "pk":5,
+     "pk":25,
        "model":"products.product",
        "fields":{
           "sku":"",
