@@ -228,150 +228,150 @@
      "pk":16,
        "model":"products.product",
        "fields":{
-          "sku":"",
-          "name":"",
-          "author":"",
-          "description":"",
-          "price":,
+          "sku":"HEA00001",
+          "name":"Healthy Eating",
+          "author":"Louise Nelson",
+          "description":"Dive into a new subject with the Know It All series. Each book focuses on a new topic and is packed with fascinating facts and stunning images. There is a lot to know, and this is the perfect place to start.",
+          "price":19.59,
           "category":4,
-          "rating":3.8,
+          "rating":3.5,
           "image_url":"",
-          "image":".webp"
+          "image":"healthy-eating.webp"
        }
     },
     {
      "pk":17,
        "model":"products.product",
        "fields":{
-          "sku":"",
-          "name":"",
-          "author":"",
-          "description":"",
-          "price":,
+          "sku":"HEA00002",
+          "name":"Healthy Vegan Street Food",
+          "author":"Kearney Jackie",
+          "description":"Jackie Kearney, MasterChef UK finalist in 2011, explores the nutritional benefits of Asian street food with 85 healthy vegan recipes. Jackie Kearney has brought new life to healthy, plant-based cooking in this exciting follow-up to her award-winning Vegan Street Food. The book is inspired by the growing wellness culture in Asia as well as the glorious range of street food - from street hawkers, roadside cafés, food halls and more - which brings people from all walks of life together. Jackie takes us on a delicious journey from India to Indonesia, via Sri Lanka, Thailand, Laos, Vietnam and Malaysia, enjoying classic dishes and crowd-pleasers we might already be familiar with, such as 'Massaman Curry in a Hurry', 'Faster Laksa' and 'Paradise Bounty Bars', all made a little healthier. The book also features many less well known regional specialities, such as 'Banh Trang Nuong' (Vietnamese rice paper pizza), 'Pepes Tahu' (Javanese tofu in banana leaves) and 'Khao Sen' (Thai tomato-braised rice noodles with porcini mushrooms). Combined with stories and anecdotes from the road, family photos and fascinating local information that transport the reader to the places and foods they fell in love with, this exciting book celebrates the best of vegan street food, whilst harnessing the most nutritious produce and ingredients.",
+          "price":28.00,
           "category":4,
-          "rating":3.8,
+          "rating":4.0,
           "image_url":"",
-          "image":".webp"
+          "image":"healthy-vegan-street-food.webp"
        }
     },
     {
      "pk":18,
        "model":"products.product",
        "fields":{
-          "sku":"",
-          "name":"",
-          "author":"",
-          "description":"",
-          "price":,
+          "sku":"HEA00003",
+          "name":"Healthy Slow Cooker",
+          "author":"Nicola Graimes",
+          "description":"Discover the convenience and versatility of your slow cooker with over 60 inspired, tried-and-tested and nourishing recipes. For anyone who loves good food but has little time to spend cooking, an electric slow cooker can fit perfectly into a busy lifestyle. They can be used day or night, and you don't have to stay at home to keep an eye on your cooking while you produce hearty, healthy food for all the family to enjoy. The recipes in this book mainly use sustaining grains, beans and pulses, along with vegetable ingredients and lean high protein foods, including fish, poultry and meat. The addition of fresh herbs and spices with known health-giving qualities, such as turmeric and ginger, adds flavour as well as packing an extra nutritional punch.",
+          "price":23.79,
           "category":4,
-          "rating":3.8,
+          "rating":4.3,
           "image_url":"",
-          "image":".webp"
+          "image":"healthy-slow-cooker.webp"
        }
     },
     {
      "pk":19,
        "model":"products.product",
        "fields":{
-          "sku":"",
-          "name":"",
-          "author":"",
-          "description":"",
-          "price":,
+          "sku":"HEA00004",
+          "name":"Healthy, Happy, Homemade Meals",
+          "author":"Gooseberry Patch",
+          "description":"Make it Healthy 1.Fresh, Fresh, Fresh. Eating fresh vegetables and fruits is always a goal when eating healthier. Fresh from the garden, the farmers' market or from the produce section of your favorite grocery store, choose ingredients that look fresh and colorful. Then enjoy them as soon as you can. 2.Eat uncluttered foods. Who needs to add canned sauces and gravies when a grilled piece of meat or roasted veggies taste so great? Keep food clean and simple whenever you can. 3.Read the label. If you don't know what an ingredient is, look it up and be sure you want to eat it. Unprocessed or minimally processed foods are always best. Processed foods often add unneeded preservatives, salt, and sugar. Choose real foods (like eggs, lean meats, fresh fruits and veggies, and whole grain breads) over processed foods with added ingredients you don't need or understand. 4.Choose the right fat. Use heart-healthy fats such as canola and olive oil whenever you can. Butter is a real food but margarine isn't. Fats are good for you-just choose the right ones. And be a bit creative when you can such as using avocado on your toast instead of butter and jelly. 5.Don't forget to snack. Having a healthy snack between meals can help you not to overeat when mealtime comes around. 6.Treat yourself and enjoy. There is always room for a treat. Dark chocolate is everyone's friend. The oatmeal in an oatmeal cookie is good for your cholesterol. 7.Watch the calories. The USDA says that most adults need about 2000 calories a day. Make it Happy One of the best pleasures of life is sitting around the table with family and friends to enjoy a good meal. Here are some tips for making meal time a happy one. 1.Presentation of food-colors, plates, etc. 2.Turn off the devices and have some fun table talk. Make it Homemade 1.Preparing a meal together is a great family experience for any age. Even the little ones can help stir and add ingredients and feel a part of the meal prep that is so much fun. 2.Eating at home ensures that you know where the ingredients came from and that it is fresh and good. Plus you'll save money!",
+          "price":20.99,
           "category":4,
-          "rating":3.8,
+          "rating":4.2,
           "image_url":"",
-          "image":".webp"
+          "image":"healthy-happy-homemade-meals.webp"
        }
     },
     {
      "pk":20,
        "model":"products.product",
        "fields":{
-          "sku":"",
-          "name":"",
-          "author":"",
-          "description":"",
-          "price":,
+          "sku":"HEA00005",
+          "name":"Healthy & Happy",
+          "author":"Julie Booher",
+          "description":"For those who have spent years on the diet roller coaster, stuck in the rut of food obsession and body shaming, never finding a way to break free from those bad habits and pattern eating - today is your day to liberate. Inspired by her successful 8 week lifestyle makeover programme, nutrition coach Julie Booher delivers the ultimate guide to finding food freedom and improving your life! Healthy & Happy gives you the tools you need to create the body and life you love.",
+          "price":23.79,
           "category":4,
-          "rating":3.8,
+          "rating":3.7,
           "image_url":"",
-          "image":".webp"
+          "image":"healthy-happy.webp"
        }
     },
     {
      "pk":21,
        "model":"products.product",
        "fields":{
-          "sku":"",
-          "name":"",
-          "author":"",
-          "description":"",
-          "price":,
+          "sku":"SPO00001",
+          "name":"Sport and Exercise Psychology",
+          "author":"Andrew M Lane",
+          "description":"The new edition of Sport and Exercise Psychology asks four fundamental questions that get to the heart of this flourishing discipline: What inner states influence what people think, feel, and behave? How can people manage or self-regulate their own inner states? How can sport and exercise psychology professionals help people manage their inner states? Is sport psychology just a placebo effect? Taking an applied perspective that bridges the gap between sport and exercise, the book answers these questions by covering the key topics in the field, including confidence, anxiety, self-regulation, stress and self-esteem. There are also chapters on the role of music in performance, imagery and exercise addiction. Each chapter is written by an expert in that field, and includes a range of features illustrating specific issues, either within the research literature or their practical application. This is a comprehensive and engaging overview of an evolving discipline, and will be essential reading to any student of sport and exercise psychology. It will also be of huge interest to athletes and coaches seeking an accessible understanding of the role of psychology in sport.",
+          "price":55.99,
           "category":5,
-          "rating":3.8,
+          "rating":4.6,
           "image_url":"",
-          "image":".webp"
+          "image":"sport-and-exercise-psychology.webp"
        }
     },
     {
      "pk":22,
        "model":"products.product",
        "fields":{
-          "sku":"",
-          "name":"",
-          "author":"",
-          "description":"",
-          "price":,
+          "sku":"SPO00002",
+          "name":"Sports in American History",
+          "author":"Gerald R. Gems",
+          "description":"Sports in American History: From Colonization to Globalization, Third Edition With HKPropel Access, helps students grasp the compelling evolution of American sporting practices. This text examines sports history as a social and cultural phenomenon, generates a better understanding of current practices in sport, and considers future developments in American sport. This comprehensive resource explores sport through various historical periods-including premodern America, colonial times, and the modern era. Sports in American History, Third Edition, features critical new content that will provide a framework for understanding how and why sport intersects with many facets of American society:Examination of how women, racial minorities, and ethnic and religious groups have influenced U.S. sporting cultureHighlights of contemporary issues affecting sport in the twenty-first century, including the Covid-19 pandemic; social justice movements; changes in name, image, and likeness policy; and sports technologyReorganized content about sporting experiences in early America that highlight the most influential momentsUpdated People and Places features and International Perspective sidebars that introduce key figures in sports history to provide a global understanding of sportFull-length articles from the scholarly journal Sport History Review , delivered online through HKPropel , that supplement the article excerpts and associated discussion questions found in the textSports in American History, Third Edition, is unique in its level of detail, broad time frame, and focus on the evolving definitions of physical activity and games. Primary documents-including newspaper excerpts, illustrations, photographs, historical writings, quotations, and posters-provide firsthand accounts that will not only inform and fascinate students but also provide a well-rounded perspective on the historical development of American sport. Time lines of major milestones in sport and society provide context in each chapter, and an extensive bibliography features primary and secondary sources in American sports history. A starting point into the intriguing field of sports history, this book will help students better understand the complexities of sport in the American experience and grasp how cultural factors and historical events have shaped sport differently in the United States than in other parts of the world. Note: A code for accessing HKPropel is included with all new print books.   ",
+          "price":130.20,
           "category":5,
-          "rating":3.8,
+          "rating":4.8,
           "image_url":"",
-          "image":".webp"
+          "image":"sports-in-american-history.webp"
        }
     },
     {
      "pk":23,
        "model":"products.product",
        "fields":{
-          "sku":"",
-          "name":"",
-          "author":"",
-          "description":"",
-          "price":,
+          "sku":"SPO00003",
+          "name":"Sports Coaching",
+          "author":"John Lyle",
+          "description":"Sports Coaching: Professionalisation and Practice is a comprehensive evidence-based textbook of sports coaching theory and practice. The book is edited by leading academics in sports coaching studies and authored by a world-renowned team of experts in sports coaching research. It deals with all aspects of coaching behaviour and practice, including coaches' decision making, coaching pedagogy, and the development of expertise. Each of the chapters provides an up-to-date position statement on coaching themes, and makes explicit reference to the professionalisation of coaching. Written in an accessible style, and identifying critical ideas and issues, the book will complement and challenge both undergraduate and postgraduate teaching programmes, and will be an invaluable source of ideas for researchers and academics. Multicontributed chapters follow uniform structure to increase clarity and accessiblity of text 'Snapshots' of critical ideas and issues presented as models or diagrams to facilitate students' understanding Case examples and scenarios illustrate key concepts in each chapter Latest research and current literature summarised for each thematic topic.",
+          "price":48.99,
           "category":5,
-          "rating":3.8,
+          "rating":4.6,
           "image_url":"",
-          "image":".webp"
+          "image":"sports-coaching.webp"
        }
     },
     {
      "pk":24,
        "model":"products.product",
        "fields":{
-          "sku":"",
-          "name":"",
-          "author":"",
-          "description":"",
-          "price":,
+          "sku":"SPO00004",
+          "name":"BTEC First Sport",
+          "author":"Mark Adams",
+          "description":"Resources designed to support learners of the new next generation BTEC First in Sport specification*. Covers all the mandatory units and a wide selection of optional units. Each unit is presented in topics to ensure the content is accessible and engaging for learners.  Covers of all the underpinning knowledge and understanding needed at level 2 to ensure that learners are fully prepared for the course. Activities in each unit provide support and clear direction for learners and can be used in the classroom or for independent work. New Assessment Zone guides learners through both internal and external assessment. * From 2012, Pearson's BTEC First qualifications have been under re-development, so schools and colleges could be teaching the existing 2010 specification or the new next generation 2012-2013 specification. There are different Student Books to support each specification. If learners are unsure, they should check with their teacher or tutor.",
+          "price":44.65,
           "category":5,
           "rating":3.8,
           "image_url":"",
-          "image":".webp"
+          "image":"btec-first-sport.webp"
        }
     },
     {
      "pk":25,
        "model":"products.product",
        "fields":{
-          "sku":"",
-          "name":"",
-          "author":"",
-          "description":"",
-          "price":,
+          "sku":"SPO00005",
+          "name":"Flow in Sports",
+          "author":"Susan A Jackson",
+          "description":"The experience of flow is still one of the least understood phenomena in sport. And yet it is one of the richest, most memorable experiences an athlete will ever know. Some call it a natural high. Others refer to it as being in a zone. Whatever it's called, flow is an elusive and very sought-after psychological state that athletes, coaches, and sport psychologists have tried to understand, harness, and employ to their benefit since Mihaly Csikszentmihalyi first coined the term back in the early 1970s. Now, in the first book devoted exclusively to flow in sports, the pioneering legend Csikszentmihalyi and sport psychology researcher Susan Jackson attempt not only to explain the phenomenon but also to identify the key conditions associated with its occurrence. The book begins with a description of what flow is and is not. Flow is defined as a person's total absorption into an activity. While it is always a peak, satisfying experience, it is not necessarily associated with peak performance on every occasion. Most of the book delves deeply into the key factors leading up to and accompanying the flow experience. The authors also recommend certain actions on the part of the athlete or coach to optimize the conditions in training and performance that allow flow to occur. The book is full of vivid examples, captivating quotes, and revealing research findings that enhance the authors' clear and insightful text. The sport setting is rife with opportunities to experience flow-be it in pick-up games or the Olympics. But until now, flow has been an infrequent, accidental, and even mysterious phenomenon to most athletes. With Flow in Sports , this optimal experience becomes both more familiar and more achievable. Get to know flow, and get into it. Find out what you've been missing.",
+          "price":27.99,
           "category":5,
-          "rating":3.8,
+          "rating":4.2,
           "image_url":"",
-          "image":".webp"
+          "image":"flow-in-sports.webp"
        }
     }
  ]  
