@@ -18,11 +18,11 @@
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="homeware-link">
                 <a href="{% url 'products' %}" class="dropdown-item">All Books</a>
-                <a href="" class="dropdown-item">Biography</a>
-                <a href="" class="dropdown-item">Conservatism</a>
-                <a href="" class="dropdown-item">Fitness</a>
-                <a href="" class="dropdown-item">Sports</a>
-                <a href="" class="dropdown-item">Health</a>
+                <a href="{% url 'products' %}?category=biography" class="dropdown-item">Biography</a>
+                <a href="{% url 'products' %}?category=conservatism" class="dropdown-item">Conservatism</a>
+                <a href="{% url 'products' %}?category=fitness" class="dropdown-item">Fitness</a>
+                <a href="{% url 'products' %}?category=sports" class="dropdown-item">Sports</a>
+                <a href="{% url 'products' %}?category=health" class="dropdown-item">Health</a>
             </div>
         </li>
     </ul>
