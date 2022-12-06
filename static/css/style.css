@@ -23,8 +23,20 @@ body {
   background-color: #FEFCF3!important;
 }
 
-.logo1 {
-  width: 30%;
+/*---- Logo ----*/
+
+.logo {  
+  padding: 1.25rem 0 1.25rem 0;
+  background-color: #FEFCF3;  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo > a {
+  width: 50%;  
+  display: flex;
+  justify-content: center
 }
 
 .logo-font {
@@ -67,7 +79,7 @@ body {
 
 .btn-black {
     background: black;
-    color: #EAEFF2;;
+    color: #EAEFF2;
 }
 
 .shop-now-button:hover,
