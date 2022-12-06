@@ -43,13 +43,13 @@ body {
     text-transform: uppercase;
 }
 
+.bg-light {
+  background-color: #FEFCF3!important;
+}
+
 .main-logo-link {
     width: fit-content;
     max-height: 140px;
-}
-
-.navbar-nav {
-  display: flex;
 }
 
 .account,
