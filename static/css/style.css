@@ -6,7 +6,7 @@ body {
     background: url('/media/boy.jpg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
-    color: white;
+    color: black;
     font-family: 'Garamond';
 }
 
@@ -110,6 +110,16 @@ body {
 	z-index: -1;
 }
 
+/* Product Detail */
+/* Products */
+
+.product-detail,
+.products
+ {
+  background-color: #F4F4F2;
+}
+
+
 /* --- Subscribe --- */
 
 #subscribe {
@@ -206,6 +216,12 @@ body {
     .header-container {
         padding-top: 164px;
     }
+
+    .header {
+      display: none;
+    }
+
+    
 }
 
 /* pad the top a bit when navbar is collapsed on mobile */
