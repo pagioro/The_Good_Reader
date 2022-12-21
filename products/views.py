@@ -13,7 +13,7 @@ def all_products(request):
 
     products = Product.objects.all()
     query = None
-    categories = Category.objects.all()
+    categories = None
     sort = None
     direction = None
 
@@ -36,7 +36,6 @@ def all_products(request):
             categories = request.GET['category'].split(',')
             products = products.filter(category__name__in=categories)
             categories = Category.objects.filter(name__in=categories)
-            categories = Category.objects.all()            
 
         if 'q' in request.GET:
             query = request.GET['q']
@@ -54,7 +53,6 @@ def all_products(request):
         'search_term': query,
         'current_categories': categories,
         'current_sorting': current_sorting,
-        'all_categories': categories,
     }
 
     return render(request, 'products/products.html', context)
@@ -70,11 +68,21 @@ def product_detail(request, product_id):
     }
 
     return render(request, 'products/product_detail.html', context)
-    
+
 
 def add_product(request):
     """ Add a product to the store """
-    form = ProductForm()
+    if request.method == 'POST':
+        form = ProductForm(request.POST, request.FILES)
+        if form.is_valid():
+            form.save()
+            messages.success(request, 'Successfully added product!')
+            return redirect(reverse('add_product'))
+        else:
+            messages.error(request, 'Failed to add product. Please ensure the form is valid.')
+    else:
+        form = ProductForm()
+        
     template = 'products/add_product.html'
     context = {
         'form': form,
