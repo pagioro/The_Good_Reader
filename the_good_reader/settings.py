@@ -67,6 +67,9 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
+LOGIN_URL = '/accounts/login/' #verificar
+LOGIN_REDIRECT_URL = '/' #verificar
+
 ROOT_URLCONF = 'the_good_reader.urls'
 
 CRISPY_TEMPLATE_PACK = 'bootstrap4'
