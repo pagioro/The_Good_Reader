@@ -1,3 +1,5 @@
+from .views import handler404
+
 """the_good_reader URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
@@ -28,3 +30,5 @@ urlpatterns = [
     path('authors/', include('author.urls')),
     path('profile/', include('profiles.urls')),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+
+handler404 = 'boutique_ado.views.handler404'
