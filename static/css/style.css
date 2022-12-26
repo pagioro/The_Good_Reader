@@ -190,6 +190,10 @@ input[name='q']::placeholder {
   background-color: #F9F9F9;
 }
 
+.navbar-toggler {
+  border: 1px solid #1e81b0;
+}
+
 /* Product Form */
 
 .btn-file {
