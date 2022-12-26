@@ -29,6 +29,7 @@ body {
   padding: 1.25rem 0 1.25rem 0;
   background-color: #FEFCF3;  
   display: flex;
+  justify-content: space-between;
   width: 150px;
 }
 
@@ -36,6 +37,7 @@ body {
   width: 50%;  
   display: flex;
   justify-content: space-between;
+  width: 150px;
 }
 
 .logo-font {
