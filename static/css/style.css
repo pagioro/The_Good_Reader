@@ -182,8 +182,7 @@ input[name='q']::placeholder {
 .fa-heart,
 .fa-user,
 .fa-book,
-.my-0,
-.dropdown-item {
+.links {
   color: #1e81b0;
 }
 
