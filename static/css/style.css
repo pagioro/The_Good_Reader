@@ -20,7 +20,7 @@ body {
 }
 
 .bg-white {
-  background-color: #FEFCF3!important;
+  background-color: #F9F9F9!important;
 }
 
 /*---- Logo ----*/
@@ -91,7 +91,7 @@ body {
 .btn-black:active,
 .btn-black:focus {
     background: #222;
-    color: #EAEFF2;;
+    color: #EAEFF2;
 }
 
 .text-black {
@@ -164,7 +164,15 @@ input[name='q']::placeholder {
 
 .search-icon {
   background-color: #1e81b0;
-  border-top-left-radius: 25px;
+  border: 1px solid #1e81b0;
+}
+
+.fa-search {
+  color: #F9F9F9;
+}
+
+.form-control {
+  border: 1px solid #1e81b0;
 }
 
 /* Product Form */
