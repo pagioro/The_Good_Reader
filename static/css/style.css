@@ -26,7 +26,7 @@ body {
 /*---- Logo ----*/
 
 .logo {
-  background-color: #FEFCF3;
+  background-color: #F9F9F9;
 }
 
 .logo > a {
@@ -40,7 +40,7 @@ body {
 }
 
 .bg-light {
-  background-color: #FEFCF3!important;
+  background-color: #F9F9F9!important;
 }
 
 .main-logo-link {
