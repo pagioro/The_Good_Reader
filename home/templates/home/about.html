@@ -1,0 +1,48 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block content %}
+
+<div class="overlay"></div>
+    <div class="row">        
+        <div class="col-md-4 text-center mt-5">
+            <h2>About Us</h2>
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse blandit placerat 
+                ullamcorper. Proin et elit massa. Nulla facilisi. Mauris id risus sed orci 
+                semper scelerisque. Vestibulum eu tellus efficitur, dignissim urna sit amet, ultrices 
+                orci. Quisque elementum gravida metus ut condimentum. Pellentesque at felis neque. 
+                Mauris ut tortor id nisl bibendum ultricies vitae vel magna. Sed tempus, risus at 
+                blandit vehicula, sem mi pretium nibh, ut lacinia odio ante ac massa. Vivamus nibh 
+                orci, porta non ex non, tempus egestas lacus.
+                Pellentesque sagittis scelerisque neque, non consectetur sapien eleifend in. 
+                Sed lacinia mi auctor dignissim blandit. Nulla cursus metus a risus tristique, 
+                nec vestibulum nisi pellentesque. Duis rutrum aliquam lacus id bibendum. 
+                Sed sit amet vehicula leo. Vestibulum tempus odio in vulputate bibendum. 
+                In eget dolor rutrum ipsum tincidunt cursus ac vitae enim. Nulla facilisi.
+                Etiam mattis, massa quis bibendum tempor, metus odio maximus nunc, eget tempor nisl 
+                diam tempor massa. Fusce non mi id est mattis maximus sit amet eu nunc. 
+                Vivamus aliquet est id nisl vestibulum, quis consequat est maximus. 
+                Phasellus non quam eget lorem venenatis hendrerit quis non lorem. 
+                Pellentesque luctus ullamcorper sapien, eget posuere ex molestie et. 
+                Aenean vulputate rhoncus rutrum. Fusce lacinia nisi nibh, lacinia iaculis magna 
+                ultrices a. Mauris egestas tortor lorem, a tincidunt nulla suscipit vitae. 
+                Vestibulum ultricies sit amet tellus in scelerisque. Nulla nisl urna, blandit eu 
+                imperdiet ac, faucibus eu ipsum. In sagittis turpis orci, vel dictum neque commodo sed.
+                Vestibulum interdum condimentum est a iaculis. Etiam efficitur cursus gravida. 
+                Donec consequat felis et urna finibus molestie. Pellentesque a accumsan eros. 
+                Pellentesque porta placerat sem et iaculis.
+            </p>         
+            <hr>
+            <p>Email: <a href="mailto:thegoodreader@mail.com">thegoodreader@mail.com</a></p>
+            <p>Phone no: +353 081 010 0101</p>
+        </div>
+        <div class="col-6 text-center d-none d-md-block">
+            <img class="img-fluid about-image"
+                src="{% static 'media/about.jpg' %}"
+                alt="woman in a book shop">
+        </div>
+    </div>
+</div>
+
+{% endblock %}
