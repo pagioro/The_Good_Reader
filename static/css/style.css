@@ -25,16 +25,12 @@ body {
 
 /*---- Logo ----*/
 
-.logo {
-  background-color: #F9F9F9;
-}
-
-.logo > a {
+.img-fluid {
   width: 50%;
 }
 
-.logo-font {
-    text-transform: uppercase;
+.logo {
+  background-color: #F9F9F9;
 }
 
 .bg-light {
