@@ -165,6 +165,8 @@ input[name='q']::placeholder {
 .search-icon {
   background-color: #1e81b0;
   border: 1px solid #1e81b0;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
 }
 
 .fa-search {
@@ -173,6 +175,14 @@ input[name='q']::placeholder {
 
 .form-control {
   border: 1px solid #1e81b0;
+}
+
+/* Icons Fontawesome */
+
+.fa-heart,
+.fa-user,
+.fa-book {
+  color: #1e81b0;
 }
 
 /* Product Form */
