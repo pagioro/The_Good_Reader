@@ -160,6 +160,13 @@ input[name='q']::placeholder {
   object-fit: cover;
 }
 
+/* Search bar */
+
+.search-icon {
+  background-color: #1e81b0;
+  border-top-left-radius: 25px;
+}
+
 /* Product Form */
 
 .btn-file {
