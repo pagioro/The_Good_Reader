@@ -159,9 +159,9 @@ input[name='q']::placeholder {
 /* About page */
 
 .about-img {
-  height: 75%;
-  object-fit: cover;
+  height: 75%;  
   width: 75%;
+  object-fit: cover;
 }
 
 /* Product Form */
@@ -327,7 +327,7 @@ input[name='q']::placeholder {
     color: #000;
   }
 
-/* -------------------------------- Media Queries */
+/* Media Queries */
 
 /* Slightly larger container on xl screens */
 @media (min-width: 1200px) {
