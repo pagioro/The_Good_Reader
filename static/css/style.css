@@ -156,6 +156,14 @@ input[name='q']::placeholder {
   height: 2px;
 }
 
+/* About page */
+
+.about-img {
+  height: 75%;
+  object-fit: cover;
+  width: 75%;
+}
+
 /* Product Form */
 
 .btn-file {
