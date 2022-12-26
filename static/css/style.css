@@ -33,6 +33,16 @@ body {
   width: 100px;
 }
 
+.logo > a {
+  width: 50%;  
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo-font {
+    text-transform: uppercase;
+}
+
 .bg-light {
   background-color: #FEFCF3!important;
 }
