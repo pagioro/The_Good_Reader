@@ -37,7 +37,7 @@ body {
 .logo > a {
   width: 50%;  
   display: flex;
-  justify-content: center
+  justify-content: left;
 }
 
 .logo-font {
