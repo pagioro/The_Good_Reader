@@ -178,6 +178,10 @@ input[name='q']::placeholder {
   border: 1px solid #FEFCF3;
 }
 
+#navBarSearchForm input[type=text] {
+  width:430px !important;
+}
+
 /* Icons Fontawesome */
 
 .fa-heart,
