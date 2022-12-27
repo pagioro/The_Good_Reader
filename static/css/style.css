@@ -106,7 +106,7 @@ body {
 	top: 0;
 	left: 0;
 	position: fixed;
-	background: white;
+	background: #fff;
 	z-index: -1;
 }
 
@@ -161,8 +161,8 @@ input[name='q']::placeholder {
 /* Search bar */
 
 .search-icon {
-  background-color: #1e81b0;
-  border: 1px solid #1e81b0;
+  background-color: #70c8b5;
+  border: 1px solid #70c8b5;
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
 }
@@ -172,7 +172,7 @@ input[name='q']::placeholder {
 }
 
 .form-control {
-  border: 1px solid #1e81b0;
+  border: 1px solid #70c8b5;
 }
 
 /* Icons Fontawesome */
@@ -181,7 +181,7 @@ input[name='q']::placeholder {
 .fa-user,
 .fa-book,
 .links {
-  color: #1e81b0;
+  color: #70c8b5;
 }
 
 .navbar {
@@ -298,7 +298,7 @@ input[name='q']::placeholder {
 .product-detail,
 .products
  {
-  background-color: #F4F4F2;
+  background-color: #fff;
 }
 
 /* --- Subscribe --- */
@@ -324,6 +324,9 @@ input[name='q']::placeholder {
   
   .subscribe-right > a {  
     margin-left: 0.625rem;
+  }
+  h5 {
+    color: #fff;
   }
 
   /* --- Footer --- */
