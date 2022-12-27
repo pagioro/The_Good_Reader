@@ -336,13 +336,13 @@ input[name='q']::placeholder {
 
   /* Footer */
 
-    #footer {
-        background-color: #70c8b5!important;  
-        height: 3.75rem;
-        padding: 0.313rem 0;
-        display: flex;
-        align-items: center;
-        justify-content: center;
+  #footer {
+    background-color: #70c8b5!important;  
+    height: 3.75rem;
+    padding: 0.313rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   
   .footer-social > a {
@@ -383,7 +383,6 @@ input[name='q']::placeholder {
   }
   
   p.footer-p {
-    margin-top: 0.938rem;
     color: #fff;
   }
 
