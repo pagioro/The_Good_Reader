@@ -199,6 +199,10 @@ input[name='q']::placeholder {
   width: auto;
 }
 
+.products {
+  background-color: #fff;
+}
+
 /* JS back to top arrow*/
 
 .btt-button {
