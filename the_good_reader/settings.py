@@ -69,8 +69,8 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-LOGIN_URL = '/accounts/login/' #verificar
-LOGIN_REDIRECT_URL = '/' #verificar
+LOGIN_URL = '/accounts/login/'
+LOGIN_REDIRECT_URL = '/'
 
 ROOT_URLCONF = 'the_good_reader.urls'
 
