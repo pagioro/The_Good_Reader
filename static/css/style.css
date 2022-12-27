@@ -308,7 +308,7 @@ input[name='q']::placeholder {
   /* --- Footer --- */
 
     #footer {
-        background-color: #FEFCF3!important;  
+        background-color: #70c8b5!important;  
         height: 3.75rem;
         padding: 0.313rem 0;
         display: flex;
@@ -329,7 +329,7 @@ input[name='q']::placeholder {
   
   #footer-contact {
     height: 3.75rem;
-    background-color: #FEFCF3;
+    background-color: #70c8b5;
   }
   
   .footer-contact-align {
