@@ -34,14 +34,11 @@ body {
 }
 
 .logo {
-  background-color: #00205b;
+  background-color: #F8EDE3;
 }
 
 .bg-light {
-  background-color: #00205b!important;
-}
-.navbar-light .navbar-nav .nav-link {
-  color: #fff;
+  background-color: #F8EDE3!important;
 }
 
 .main-logo-link {
@@ -165,7 +162,7 @@ input[name='q']::placeholder {
 
 .search-icon {
   background-color: #FEFCF3;
-  border: 1px solid #FEFCF3;
+  border: 1px solid #00205b;
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
 }
@@ -175,7 +172,7 @@ input[name='q']::placeholder {
 }
 
 .form-control {
-  border: 1px solid #FEFCF3;
+  border: 1px solid #00205b;
 }
 
 #navBarSearchForm input[type=text] {
@@ -188,15 +185,11 @@ input[name='q']::placeholder {
 .fa-user,
 .fa-book,
 .links {
-  color: #FEFCF3;
-}
-
-.my-0 {
-  color: #FEFCF3;
+  color: #000;
 }
 
 .navbar {
-  background-color: #00205b;
+  background-color: #F8EDE3;
 }
 
 .navbar-toggler {
