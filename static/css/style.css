@@ -191,10 +191,8 @@ input[name='q']::placeholder {
 /* Products.html */
 
 .card-img-top {
-  height: 30vw;
+  height: 25vw;
   width: auto;
-  object-fit: cover;
-  margin-top: 5px;
 }
 
 /* Product Form */
