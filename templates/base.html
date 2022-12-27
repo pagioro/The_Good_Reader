@@ -128,6 +128,11 @@
                         Authors
                     </a>
                 </li>
+                <li class="nav-item">
+                    <a class="links logo-font font-weight-bold nav-link mr-5" href="{% url 'contact' %}">
+                        Contact
+                    </a>
+                </li>
               </ul>
               <form id="navBarSearchForm" class="form-inline my-2 my-lg-0" method="GET" action="{% url 'products' %}">
                     <div class="input-group w-100">
@@ -199,7 +204,7 @@
     <div class="container-fluid">
         <div class="subscribe footer-contact row justify-content-md-center">
             <div class="col-6">
-                <h5><a href="" class="footer-contact"><i class="fa-solid fa-envelope"></i>contact</a></h5>
+                <h5><a href="{% url 'contact' %}" class="footer-contact"><i class="fa-solid fa-envelope"></i>contact</a></h5>
             </div>
             <div class="col-6">
                 <p class="footer-p">© 2022. Created by Elcio Pagioro Pari</p>	
