@@ -312,6 +312,7 @@ input[name='q']::placeholder {
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center; */
+    padding: 1.25rem 1.25rem;
     background-color: #00205b;
     /* height: auto;
     padding: 1.25rem 1.25rem;
