@@ -336,6 +336,10 @@ input[name='q']::placeholder {
 
   /* Footer */
 
+  .footer-contact {
+    background-color: #70c8b5;
+  }
+
 /* Media Queries */
 
 /* Slightly larger container on xl screens */
