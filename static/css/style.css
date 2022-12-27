@@ -308,14 +308,14 @@ input[name='q']::placeholder {
 /* --- Subscribe --- */
 
 #subscribe {
-    display: flex;
+    /* display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
-    align-items: center;
+    align-items: center; */
     background-color: #00205b;
-    height: auto;
+    /* height: auto;
     padding: 1.25rem 1.25rem;
-    margin-top: 2.5rem;
+    margin-top: 2.5rem; */
   }
 
   .btn {
