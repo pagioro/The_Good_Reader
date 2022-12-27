@@ -296,6 +296,10 @@ input[name='q']::placeholder {
     padding: 1.25rem 1.25rem;
     margin-top: 2.5rem;
   }
+
+  .btn {
+    color: #fff;
+  }
   
   .subscribe-right {  
     display: flex;
