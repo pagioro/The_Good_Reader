@@ -291,7 +291,7 @@ input[name='q']::placeholder {
     flex-wrap: wrap;
     justify-content: space-around;
     align-items: center;
-    background-color: #FEFCF3;
+    background-color: #00205b;
     height: auto;
     padding: 1.25rem 1.25rem;
     margin-top: 2.5rem;
@@ -343,19 +343,19 @@ input[name='q']::placeholder {
   }
   
   .footer-contact {
-    color: #808080;
+    color: #fff;
     text-decoration: none;
   }
   
   .footer-contact:hover {  
-    color: #1C6758;
+    color: #F0ECCF;
     transition-duration: 0.5s;
     text-decoration: none;  
   }
   
   p.footer-p {
     margin-top: 0.938rem;
-    color: #000;
+    color: #fff;
   }
 
 /* Media Queries */
