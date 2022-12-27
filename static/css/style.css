@@ -203,12 +203,6 @@ input[name='q']::placeholder {
   background-color: #fff;
 }
 
-/* JS back to top arrow*/
-
-.btt-button {
-  border-radius: 50%;
-}
-
 /* Product Form */
 
 .btn-file {
