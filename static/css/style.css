@@ -20,7 +20,11 @@ body {
 }
 
 .bg-white {
-  background-color: #F9F9F9!important;
+  background-color:#fff!important;
+}
+
+.text-left {
+  text-align: right!important
 }
 
 /*---- Logo ----*/
