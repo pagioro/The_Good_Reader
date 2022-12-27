@@ -121,7 +121,37 @@
 </script>
 {% include 'products/includes/quantity_input_script.html' %}
 
-<script type="text/javascript">
+<script>
+    // Update quantity on click
+    $('.update-link').click(function(e) {
+        var form = $(this).prev('.update-form');
+        let input=$(form).find("input.qty_input")
+        if (input[0].validity.valid==false){
+            input[0].setCustomValidity("Maximum quantity 99");
+            input[0].reportValidity();
+        } else {
+            form.submit();
+        }
+    })
+
+    // Remove item and reload on click
+    $('.remove-item').click(function(e) {
+        var csrfToken = "{{ csrf_token }}";
+        var itemId = $(this).attr('id').split('remove_')[1];
+        var url = `/bag/remove/${itemId}/`;
+        var data = {
+            'csrfmiddlewaretoken': csrfToken,
+        };
+
+        $.post(url, data)
+            .done(function () {
+                location.reload();
+            });
+    })
+</script>
+{% endblock %}
+
+<!-- <script type="text/javascript">
     // Update quantity on click
     $('.update-link').click(function(e) {
         var form = $(this).prev('.update-form');
@@ -140,5 +170,5 @@
              location.reload();
          });
     })
-</script>
+</script> -->
 {% endblock %}
