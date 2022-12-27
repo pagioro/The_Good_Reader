@@ -327,7 +327,13 @@ input[name='q']::placeholder {
     color: #fff;
   }
 
-  /* --- Footer --- */
+  /* Social */
+
+  .fab {
+    color: #fff;
+  }
+
+  /* Footer */
 
     #footer {
         background-color: #70c8b5!important;  
