@@ -199,6 +199,12 @@ input[name='q']::placeholder {
   width: auto;
 }
 
+/* JS back to top arrow*/
+
+.btt-button {
+  border-radius: 50%;
+}
+
 /* Product Form */
 
 .btn-file {
