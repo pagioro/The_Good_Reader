@@ -308,7 +308,7 @@ input[name='q']::placeholder {
 /* --- Subscribe --- */
 
 .subscribe {   
-    align-items: center;
+    text-align: center;
     background-color: #00205b;
     padding: 1.25rem 1.25rem;
   }
