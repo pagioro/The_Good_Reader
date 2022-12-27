@@ -344,6 +344,12 @@ input[name='q']::placeholder {
     align-items: center;
     justify-content: center;
   }
+
+  .footer-end {
+    text-align: center;
+    background-color: #70c8b5;
+    padding: 1.25rem 1.25rem;
+  }
   
   .footer-social > a {
     color: black;
