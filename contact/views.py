@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from .models import Contact
 
-def get_authors(request):
+def get_contact(request):
     """ A view to show all products, including sorting and search queries """
 
     contact = Contact.objects.all()   

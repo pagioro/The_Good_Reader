@@ -1,6 +1,6 @@
 from django.db import models
 
-class Author(models.Model):
+class Contact(models.Model):
     name = models.CharField(max_length=254)
     email = models.CharField(max_length=254)
     title = models.CharField(max_length=254)
