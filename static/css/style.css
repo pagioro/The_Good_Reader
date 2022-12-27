@@ -161,18 +161,18 @@ input[name='q']::placeholder {
 /* Search bar */
 
 .search-icon {
-  background-color: #FEFCF3;
+  background-color: #00205b;
   border: 1px solid #00205b;
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
 }
 
 .fa-search {
-  color: #00205b;
+  color: #F8EDE3;
 }
 
 .form-control {
-  border: 1px solid #00205b;
+  border: 1px solid #F8EDE3;
 }
 
 #navBarSearchForm input[type=text] {
@@ -193,7 +193,7 @@ input[name='q']::placeholder {
 }
 
 .navbar-toggler {
-  border: 1px solid #00205b;
+  border: 1px solid #F8EDE3;
 }
 
 /* Products.html */
