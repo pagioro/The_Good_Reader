@@ -7,7 +7,7 @@ def get_contact(request):
     contact = Contact.objects.all()   
     
     context = {
-        'contacts': contact,
+        'contact': contact,
     }
 
     return render(request, 'contact/contact.html', context)
