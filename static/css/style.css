@@ -34,11 +34,11 @@ body {
 }
 
 .logo {
-  background-color: #F9F9F9;
+  background-color: #00205b;
 }
 
 .bg-light {
-  background-color: #F9F9F9!important;
+  background-color: #00205b!important;
 }
 
 .main-logo-link {
@@ -77,7 +77,7 @@ body {
 }
 
 .btn-outline-black {
-  background: white;
+  background: #fff;
   color: black !important; 
   border: 1px solid black;
 }
@@ -161,18 +161,18 @@ input[name='q']::placeholder {
 /* Search bar */
 
 .search-icon {
-  background-color: #70c8b5;
-  border: 1px solid #70c8b5;
+  background-color: #fff;
+  border: 1px solid #fff;
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
 }
 
 .fa-search {
-  color: #F9F9F9;
+  color: #00205b;
 }
 
 .form-control {
-  border: 1px solid #70c8b5;
+  border: 1px solid #fff;
 }
 
 /* Icons Fontawesome */
@@ -181,15 +181,15 @@ input[name='q']::placeholder {
 .fa-user,
 .fa-book,
 .links {
-  color: #70c8b5;
+  color: #fff;
 }
 
 .navbar {
-  background-color: #F9F9F9;
+  background-color: #00205b;
 }
 
 .navbar-toggler {
-  border: 1px solid #1e81b0;
+  border: 1px solid #00205b;
 }
 
 /* Products.html */
