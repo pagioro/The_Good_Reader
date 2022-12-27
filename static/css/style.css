@@ -40,6 +40,9 @@ body {
 .bg-light {
   background-color: #00205b!important;
 }
+.navbar-light .navbar-nav .nav-link {
+  color: #fff;
+}
 
 .main-logo-link {
     width: fit-content;
@@ -161,8 +164,8 @@ input[name='q']::placeholder {
 /* Search bar */
 
 .search-icon {
-  background-color: #fff;
-  border: 1px solid #fff;
+  background-color: #FEFCF3;
+  border: 1px solid #FEFCF3;
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
 }
@@ -172,7 +175,7 @@ input[name='q']::placeholder {
 }
 
 .form-control {
-  border: 1px solid #fff;
+  border: 1px solid #FEFCF3;
 }
 
 /* Icons Fontawesome */
@@ -181,7 +184,11 @@ input[name='q']::placeholder {
 .fa-user,
 .fa-book,
 .links {
-  color: #fff;
+  color: #FEFCF3;
+}
+
+.my-0 {
+  color: #FEFCF3;
 }
 
 .navbar {
