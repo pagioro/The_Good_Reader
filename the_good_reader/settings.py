@@ -2,7 +2,6 @@ import os
 import dj_database_url
 from os import path
 if path.exists("env.py"):
-    print("Hello!")
     import env
     print(os.environ.get("STRIPE_PUBLIC_KEY"))
 
