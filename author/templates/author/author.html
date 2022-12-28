@@ -8,17 +8,15 @@
 <section class="author">
     <div class="container-fluid">
         <div class="row justify-content-md-center">
-            {% for author in authors %}
-            <div>
-                <h2> {{ author.name }} </h2>
-            </div>
-            <div class="col-6">                
+            {% for author in authors %}            
+            <div class="col-6">       
+                <h2> {{ author.name }} </h2>         
                 <img src="{{ author.image }}">
             </div>
-            <div class="col-6">
+            <div class="col-6">                
                 <p> Country: {{ author.country }} </p>
-                <p> {{ author.bio }} </p>
-                <p> Known for: {{ author.known_for }} </p>            
+                <p> Known for: {{ author.known_for }} </p> 
+                <p> {{ author.bio }} </p>                           
             </div>
             {% endfor %}
         </div>
