@@ -1,0 +1,62 @@
+[
+    {
+     "pk":1,
+       "model":"authors.author",
+       "fields":{
+          "name":"Roger Scruton",
+          "country":"England",
+          "bio":"Sir Roger Vernon Scruton FBA FRSL was an English philosopher and writer who specialised in aesthetics and political philosophy, particularly in the furtherance of traditionalist conservative views. Editor from 1982 to 2001 of The Salisbury Review, a conservative political journal, Scruton wrote over 50 books on philosophy, art, music, politics, literature, culture, sexuality, and religion; he also wrote novels and two operas. His most notable publications include The Meaning of Conservatism (1980), Sexual Desire (1986), The Aesthetics of Music (1997), and How to Be a Conservative (2014). He was a regular contributor to the popular media, including The Times, The Spectator, and the New Statesman. Scruton embraced conservatism after witnessing the May 1968 student protests in France. From 1971 to 1992 he was a lecturer and professor of aesthetics at Birkbeck College, London, after which he held several part-time academic positions, including in the United States. In the 1980s he helped to establish underground academic networks in Soviet-controlled Eastern Europe, for which he was awarded the Czech Republic's Medal of Merit (First Class) by President Vaclav Havel in 1998. Scruton was knighted in the 2016 Birthday Honours for 'services to philosophy, teaching and public education'.",
+          "known_for":"The most important conservative thinker of his generation",
+          "image_url":"",
+          "image":"Roger_Scruton.webp" 
+       }
+    },
+    {
+      "pk":2,
+        "model":"authors.author",
+        "fields":{
+           "name":"Matthew Continetti",
+           "country":"United States of America",
+           "bio":"Continetti was born in Alexandria, Virginia. He is the son of Cathy and Joseph F. Continetti. Continetti graduated from Columbia University in 2003. While in college he wrote for the Columbia Spectator, the Intercollegiate Studies Institute's magazine, CAMPUS, and the Columbia Political Review. In summer 2002, he did a Collegiate Network internship at National Review, where he worked as a research assistant for Rich Lowry. He joined The Weekly Standard as an editorial assistant, and later became associate editor. He is now a contributing editor to National Review. His articles and reviews have also appeared in The New York Times, The Wall Street Journal, National Review, The Washington Post, The Los Angeles Times, and The Financial Times. He has also been an on-camera contributor to Bloggingheads.tv and has criticized Glenn Beck as 'nonsense'. He has argued the American media turned on Sarah Palin during the 2008 campaign because they had blind allegiance to Barack Obama. He has criticized American academia as uniformly left-wing. From October 2015 to May 2016, the Washington Free Beacon, under Continetti's stewardship, hired Fusion GPS to conduct opposition research on 'multiple candidates' during the 2016 presidential election, including Donald Trump. The Free Beacon stopped funding his research when Trump was selected as the Republican Party nominee.",
+           "known_for":"American journalist and a senior fellow in Social, Cultural, and Constitutional Studies at the American Enterprise Institute.",
+           "image_url":"",
+           "image":"Matthew_Continetti.webp" 
+        }
+     },
+     {
+      "pk":3,
+        "model":"authors.author",
+        "fields":{
+           "name":"Stephen King",
+           "country":"United States of America",
+           "bio":"Stephen Edwin King (born September 21, 1947) is an American author of horror, supernatural fiction, suspense, crime, science-fiction, and fantasy novels. Described as the 'King of Horror', a play on his surname and a reference to his high standing in pop culture, his books have sold more than 350 million copies,[3] and many have been adapted into films, television series, miniseries, and comic books. King has published 64 novels, including seven under the pen name Richard Bachman, and five non-fiction books.He has also written approximately 200 short stories, most of which have been published in book collections. King has received Bram Stoker Awards, World Fantasy Awards, and British Fantasy Society Awards. In 2003, the National Book Foundation awarded him the Medal for Distinguished Contribution to American Letters. He has also received awards for his contribution to literature for his entire bibliography, such as the 2004 World Fantasy Award for Life Achievement and the 2007 Grand Master Award from the Mystery Writers of America. In 2015, he was awarded with a National Medal of Arts from the U.S. National Endowment for the Arts for his contributions to literature.",
+           "known_for":"American author of horror, supernatural fiction, suspense, crime, science-fiction, and fantasy novels",
+           "image_url":"",
+           "image":"Stephen-King.webp" 
+        }
+     },
+     {
+      "pk":4,
+        "model":"authors.author",
+        "fields":{
+           "name":"Dr. Charles B. Corbin",
+           "country":"United States of America",
+           "bio":"Dr. Charles B. 'Chuck' Corbin has been a professor at Arizona State University since 1982. He is currently Professor Emeritus in the Department of Exercise and Wellness at Arizona State University-East in Mesa, AZ. He is the senior author, sole author, or editor of more than 70 books and has written chapters in more than 15 others. Fitness for Life (5th ed.) winner of the Texty Award of the Text and Academic Authors Association (TAA), Concepts of Physical Fitness(12th ed.) winner of the McGuffey Award (TAA), and Concepts of Fitness and Wellness (6th ed.) are the most widely adopted high school and college texts in the area of fitness and wellness. Dr. Corbin is internationally recognized as an expert in physical activity, health and wellness promotion, and youth physical fitness. He has keynoted more than 35 state AHPERD Conventions and had made major addresses in Brazil, Ireland, England, Australia and in various European countries. He has presented numerous named lectures including the Cureton Lecture at ACSM, the Hanna, Sargent, and Distinguished Scholar Lectures at NAKPEHE, the Prince Phillip Lecture at the British Physical Education Association, and the Weiss and Alliance Scholar Lectures at AAHPERD. Dr. Corbin has published more than 175 professional, research and popular articles and has served on numerous national boards including the Fitnessgram Advisory Board.  He is a past president and Fellow of the American Academy of Kinesiology and Physical Education, a fellow in the North American Society for HPERD Professionals, a fellow of the American College of Sports Medicine, and a life member of AAHPERD. Among the awards he has received are the Healthy American Fitness Leaders Award (President's Council, National Jaycees),  AAHPERD Honor Award, Physical Fitness Council Honor Award, the COPEC Hanson Award, and the Distinguished Service Award of the Presidents Council on Physical Fitness and Sports. Dr. Corbin was named the Alliance Scholar by AAHPERD and the Distinguished Scholar of NAKPEHE. He was recently elected to the NASPE Hall of Fame and is currently the chair of the newly created Scientific Committee of the President's Council on Physical Fitness and Sports.",
+           "known_for":"Dr. Corbin is internationally recognized as an expert in physical activity, health and wellness promotion, and youth physical fitness.",
+           "image_url":"",
+           "image":"Dr_Charles_B_Corbin.webp" 
+        }
+     },
+     {
+      "pk":5,
+        "model":"authors.author",
+        "fields":{
+           "name":"Hermione Lee",
+           "country":"England",
+           "bio":"Dame Hermione Lee DBE, FBA, FRSL (born 29 February 1948) is a British biographer, literary critic and academic. She is a former President of Wolfson College, Oxford, and a former Goldsmiths' Professor of English Literature in the University of Oxford and professorial fellow of New College. She is a fellow of the British Academy and of the Royal Society of Literature.",
+           "known_for":"British biographer",
+           "image_url":"",
+           "image":"Hermione_Lee.webp" 
+        }
+     },
+]  
