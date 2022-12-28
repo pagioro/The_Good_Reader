@@ -5,10 +5,29 @@
 {% endblock %}
 
 {% block content %}
+<section class="author">
+    <div class="container-fluid">
+        <div class="row justify-content-md-center">
+            {% for author in authors %}
+            <div>
+                <h2> {{ author.name }} </h2>
+            </div>
+            <div class="col-6">                
+                <img src="{{ author.image }}">
+            </div>
+            <div class="col-6">
+                <p> Country: {{ author.country }} </p>
+                <p> {{ author.bio }} </p>
+                <p> Known for: {{ author.known_for }} </p>            
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
 
-{% for author in authors %}
+<!-- {% for author in authors %}
 <h1>{{ author.name }}</h1>
 <img src="{{ author.image_url }}">
-{% endfor %}
+{% endfor %} -->
 
 {% endblock %}

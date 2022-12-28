@@ -215,6 +215,11 @@ input[name='q']::placeholder {
   padding-right: 0;
   padding-left: 0;
 }
+/* Author.html */
+
+.author {
+  background-color: #fff;
+}
 
 /* Product Form */
 
