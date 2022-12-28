@@ -152,10 +152,9 @@ input[name='q']::placeholder {
 
 /* About page */
 
-.about-img {
-  height: 75%;  
-  width: 75%;
-  object-fit: cover;
+.about-img { 
+  width: auto;
+  margin-bottom: 1.25rem;
 }
 
 /* Search bar */
@@ -202,6 +201,7 @@ input[name='q']::placeholder {
   height: auto;
   width: auto;
 }
+
 
 .products {
   background-color: #fff;
