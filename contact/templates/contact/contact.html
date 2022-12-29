@@ -15,11 +15,10 @@
             <img class="about-img img-fluid" src="{{ MEDIA_URL }}contact.jpg"" alt="contact">
           </div>
           <div class="col-md-6 mt-5">            
-                <form method="POST" style="margin-top: 1.3em;">
+                <form class="about-form" method="POST">
                     {{ comment_form | crispy }}
-                    {% csrf_token %}
-                                                    
-                    <button type="submit" class="btn submit-form">Submit</button>
+                    {% csrf_token %}                                                    
+                    <button type="submit" class="btn btn-secondary submit-form">Submit</button>
                 </form>               
           </div>
         </div>

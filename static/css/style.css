@@ -152,10 +152,14 @@ input[name='q']::placeholder {
 /* Contact Page*/
 
 .contact {
-  background-color: #fff;
+  background-color: #D6E4E5;
+  padding-bottom: 1.25rem;
+  font-weight: bold;
 }
 
-
+.about-form {
+  margin-top: 1.3em;  
+}
 
 /* About page */
 
