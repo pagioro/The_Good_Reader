@@ -11,3 +11,4 @@ def get_contact(request):
     }
 
     return render(request, 'contact/contact.html', context)
+
