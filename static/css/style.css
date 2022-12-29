@@ -149,6 +149,13 @@ input[name='q']::placeholder {
 .toast-capper {
   height: 2px;
 }
+/* Contact Page*/
+
+.contact {
+  background-color: #fff;
+}
+
+
 
 /* About page */
 
