@@ -7,21 +7,22 @@
 {% block content %}
 
 <div class="author-background container-fluid">
-    <div class="container">
+    <div class="author-container container">
         <div class="row">          
             {% for author in authors %}            
-            <div class="col-md-6 mt-5">      
-                <h2> {{ author.name }} </h2>         
-                <img class="author-img img-fluid" src="{{ author.image.url }}">
-            </div>        
             <div class="col-md-6 mt-5">
-                    <p> Country: {{ author.country }} </p>
-                    <p> Known for: {{ author.known_for }} </p> 
+                <img class="author-img img-fluid" src="{{ author.image.url }}">
+            </div>                    
+            <div class="col-md-6 mt-5">
+                    <h2><strong> {{ author.name }} </strong></h2> 
+                    <p><strong> Country: {{ author.country }} </strong></p>
+                    <p><strong> Known for:</strong> {{ author.known_for }} </p> 
                     <p> {{ author.bio }} </p> 
-            </div>
+            </div>            
             {% endfor %}
-        </div>
-    </div>
+        </div>        
+    </div>    
 </div>
+
 
 {% endblock %}

@@ -235,7 +235,11 @@ input[name='q']::placeholder {
 }
 
 .author-background {
-  background-color: #D6E4E5;  
+  background-color: #fff;  
+}
+
+.author-container {
+  padding: 1.25rem;
 }
 
 /* Product Form */
