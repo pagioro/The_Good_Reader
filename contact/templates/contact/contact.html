@@ -6,5 +6,36 @@
 
 {% block content %}
 
+<div>
+    <div class="">
+    <h3>Contact Form!</h3>
+    <Label>* (required field)</Label>
+    <div>
+        <div>
+            <form action="{% url 'contact' %}" method="POST" enctype="multipart/form-data">
+                {% csrf_token %}                
+                    <div>
+                        <Label>Name</Label>                    
+                        {{ recipe_form.title|as_crispy_field }}
+                    </div>
+                    <div>
+                        <Label>Email </Label>
+                        {{ recipe_form.prep_time|as_crispy_field }}
+                    </div>                
+                    <div>
+                        <Label>Title</Label>
+                        {{ recipe_form.cook_time|as_crispy_field|safe }}
+                    </div>                    
+                    <div>                     
+                    <div>
+                        <Label>Description</Label>
+                        {{ recipe_form.description|as_crispy_field|safe }}
+                    </div>                                 
+                <button type="submit" class="btn submit-form">Submit</button>
+            </form>
+        </div>
+    </div>
+    </div>
+</div>
 
 {% endblock %}
