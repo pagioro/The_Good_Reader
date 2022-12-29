@@ -1,7 +1,7 @@
 from django.contrib import admin
-from .models import Author
+from .models import Contact
 
-class AuthorAdmin(admin.ModelAdmin):
+class ContactAdmin(admin.ModelAdmin):
     list_display = (
         'name',
     )
