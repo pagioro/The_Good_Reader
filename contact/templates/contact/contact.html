@@ -16,20 +16,20 @@
                 {% csrf_token %}                
                     <div>
                         <Label>Name</Label>                    
-                        {{ recipe_form.title|as_crispy_field }}
+                        {{ contact.name|as_crispy_field }}
                     </div>
                     <div>
                         <Label>Email </Label>
-                        {{ recipe_form.prep_time|as_crispy_field }}
+                        {{ contact.email|as_crispy_field }}
                     </div>                
                     <div>
                         <Label>Title</Label>
-                        {{ recipe_form.cook_time|as_crispy_field|safe }}
+                        {{ contact.title|as_crispy_field }}
                     </div>                    
                     <div>                     
                     <div>
                         <Label>Description</Label>
-                        {{ recipe_form.description|as_crispy_field|safe }}
+                        {{ contact.description|as_crispy_field }}
                     </div>                                 
                 <button type="submit" class="btn submit-form">Submit</button>
             </form>
