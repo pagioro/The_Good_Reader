@@ -228,8 +228,14 @@ input[name='q']::placeholder {
 }
 /* Author.html */
 
-.author {
-  background-color: #fff;
+.author-img {
+    height: 25vw;
+    width: auto;
+    object-fit: cover;
+}
+
+.author-background {
+  background-color: #70c8b5;
 }
 
 /* Product Form */
