@@ -171,14 +171,14 @@ input[name='q']::placeholder {
 /* Search bar */
 
 .search-icon {
-  background-color: #00205b;
-  border: 1px solid #00205b;
+  background-color: #D6E4E5;
+  border: 1px solid #D6E4E5;
   border-top-left-radius: 10px;
   border-bottom-left-radius: 10px;
 }
 
 .fa-search {
-  color: #F8EDE3;
+  color: #000;
 }
 
 .form-control {
@@ -235,7 +235,7 @@ input[name='q']::placeholder {
 }
 
 .author-background {
-  background-color: #D6E4E5;
+  background-color: #D6E4E5;  
 }
 
 /* Product Form */

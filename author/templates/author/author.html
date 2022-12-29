@@ -8,13 +8,13 @@
 
 <div class="author-background container-fluid">
     <div class="container">
-        <div class="row justify-content-center">          
+        <div class="row">          
             {% for author in authors %}            
-            <div class="col-6 align-self-center">      
+            <div class="col-md-6 mt-5">      
                 <h2> {{ author.name }} </h2>         
                 <img class="author-img img-fluid" src="{{ author.image.url }}">
             </div>        
-            <div class="col-6 align-self-center">
+            <div class="col-md-6 mt-5">
                     <p> Country: {{ author.country }} </p>
                     <p> Known for: {{ author.known_for }} </p> 
                     <p> {{ author.bio }} </p> 
