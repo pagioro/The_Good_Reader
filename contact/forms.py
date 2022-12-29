@@ -7,7 +7,7 @@ class CommentForm(forms.ModelForm):
     Contact form
     """
     class Meta:
-        model = Contact
+        model = Comment
         fields = [
             'name',
             'email',            
