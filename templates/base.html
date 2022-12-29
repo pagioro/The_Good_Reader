@@ -44,21 +44,7 @@
                 <a class="logo navbar-brand" href="{% url 'home' %}"><img class="img-fluid" src="{{ MEDIA_URL }}logo2.png" alt="Website Logo"></a> 
             </div>
             <div class = "col-md-6 text-center">
-                <ul class="list-inline list-unstyled text-center text-lg-right my-0">
-                    <li class="list-inline-item">
-                        <a class="{% if grand_total %}text-info font-weight-bold{% else %}text-black{% endif %} nav-link" href="{% url 'view_bag' %}">
-                            <div class="cart text-center">
-                                <div><i class="fa-regular fa-heart"></i></div>
-                                <p class="my-0">
-                                    {% if grand_total %}
-                                        ${{ grand_total|floatformat:2 }}
-                                    {% else %}
-                                        $0.00
-                                    {% endif %}
-                                </p>
-                            </div>
-                        </a>
-                    </li>
+                <ul class="list-inline list-unstyled text-center text-lg-right my-0">                    
                     <li class="list-inline-item dropdown">
                         <a class="nav-link" href="#" id="user-options" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             <div class="account text-center">
