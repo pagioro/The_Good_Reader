@@ -328,11 +328,7 @@ input[name='q']::placeholder {
     background-color: #70c8b5;
     padding: 1.25rem 1.25rem;
   }
-
-  .btn {
-    color: #fff;
-  }
-  
+   
   .subscribe-right {  
     display: flex;
   }
