@@ -373,6 +373,16 @@ input[name='q']::placeholder {
 
   /* Footer */
 
+  .privacy {
+    color: #fff;
+  }
+
+  .privacy:hover {
+    color: #F0ECCF;
+    transition-duration: 0.5s;
+    text-decoration: none; 
+  }
+
   #footer {
     background-color: #70c8b5!important;  
     height: 3.75rem;
