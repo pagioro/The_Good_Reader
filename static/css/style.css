@@ -334,10 +334,16 @@ input[name='q']::placeholder {
 /* Mail Chimp */
 
 #mc_embed_signup {
-  background:#fff; 
+  background:#00205b; 
   clear:left; 
-  font:14px Helvetica,Arial,sans-serif;  
+  font:14px Helvetica,Arial,sans-serif; 
+  color:#fff; 
   width:600px;
+}
+
+.mailchimp {
+  background:#00205b; 
+  padding: 1.25rem 1.25rem;
 }
 
 /* Subscribe */
@@ -503,9 +509,7 @@ color: #17a2b8; /* text-info */
 
     .header {
       display: none;
-    }
-
-    
+    }    
 }
 
 /* pad the top a bit when navbar is collapsed on mobile */
