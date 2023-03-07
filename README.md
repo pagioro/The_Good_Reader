@@ -35,3 +35,10 @@ Customers can call or send an email for help with products they've already purch
 [Back to content](#contents)
 
 ### **Planning Stage**
+
+The initial step in this project was to create a general visual idea of how the page should look. I decided to make the most common resources on a bookstore website that were presented and placed in conventional places on the page; for example, the search bar should be at the top, always easy to find.
+In the beginning, I also created wireframes for the website to get a better idea of what I intended. I also made all my user stories to ensure I applied all the functionality I wanted.
+
+[Back to content](#contents)
+
+### **Project Goals**
