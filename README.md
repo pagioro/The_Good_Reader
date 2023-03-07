@@ -111,11 +111,11 @@ Site moc-ups were designed using [Balsamiq Wireframes](https://balsamiq.com/). S
 
 **Front Page**
 
-![Home Page](/static/site_images/.png) ![Mob Front Page](/static/site_images/home.png)
+![Home Page and Mob Front Page](/static/site_images/home.png)
 
 The front page is designed to give the user an instant understanding of the page's purpose. 
 
-About Page
+**About Page**
 
 
 
