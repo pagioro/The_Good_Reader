@@ -48,3 +48,30 @@ The app is designed as an e-commerce application that encourages users to make p
 [Back to content](#contents)
 
 **Epics**
+
+
+I'll do it later
+
+
+### **User Stories**
+
+*Agile methodology was used to create user stories.*
+*GitHub’s Kanban feature was used to track the progress of user stories.*
+
+
+I'll do it later
+
+
+[Back to content](#contents)
+
+### **Design Goals**
+
+On the presentation page of the site was included a photo of a boy reading a book to draw attention, the buttons just above with all the functionalities and easy to understand. 
+Was added a white background on the pages where the books are showing to make them stand out.
+It was also important that the site looked and worked well on all devices, regardless of screen size.
+
+### **Design Choices**
+
+* Font
+
+
