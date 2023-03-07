@@ -99,4 +99,12 @@ The Good Reader logo was created using Photoshop.
 
 ![Second Logo](/static/site_images/logo2.png)
 
+* Images
+
+All images on the site are taken from [Pexels.com](https://www.pexels.com/). Pexels provides high quality and completely free stock photos licensed under the Pexels license. 
+
+[Back to content](#contents)
+
+## **Wireframes**
+
 
