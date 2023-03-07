@@ -42,3 +42,9 @@ In the beginning, I also created wireframes for the website to get a better idea
 [Back to content](#contents)
 
 ### **Project Goals**
+
+The app is designed as an e-commerce application that encourages users to make purchases. My goal for this project was to create a user-friendly site for people who want to buy books online by offering a neat place to navigate and make purchases. 
+
+[Back to content](#contents)
+
+**Epics**
