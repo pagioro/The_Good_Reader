@@ -91,4 +91,12 @@ To keep the site visually appealing, I gave the header and footer a lighter back
 
 ![Color Scheme](/static/site_images/color.png)
 
+* Logo The Good Reader
+
+The Good Reader logo was created using Photoshop.
+
+![First Logo](/static/site_images/logo1.png)
+
+![Second Logo](/static/site_images/logo2.png)
+
 
