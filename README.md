@@ -107,4 +107,8 @@ All images on the site are taken from [Pexels.com](https://www.pexels.com/). Pex
 
 ## **Wireframes**
 
+Site moc-ups were designed using [Balsamiq Wireframes](https://balsamiq.com/). Since the site is built to be fully responsive one of the design goals was that the user should recognize the different pages and sections of the page no matter what size they were using. 
+
+**Front Page**
+
 
