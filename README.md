@@ -74,4 +74,8 @@ It was also important that the site looked and worked well on all devices, regar
 
 * Font
 
+To stay in line with the goal of presenting a clean and sophisticated website, I chose an elegant font called Roboto for easy reading.
+
+![Google Font](/static/site_images/font.png)
+
 
