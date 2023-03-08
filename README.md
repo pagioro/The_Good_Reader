@@ -121,6 +121,12 @@ The front page is designed to give the user an instant understanding of the page
 
 The about page is strictly for informational purposes. 
 
+**Authors Page**
+
+![Authors Page and Mob Authors Page](/static/site_images/authors.png)
+
+The author's page displays some renowned authors with a few of their life stories. 
+
 **Products Page**
 
 ![Products Page and Mob Products Page](/static/site_images/products.png)
@@ -131,7 +137,7 @@ When clicking on Products, either from the dropdown menu in the navigation bar o
 
 ![Products Detail Page and Mob Products Detail Page](/static/site_images/products-detail.png)
 
-When viewing all products, the user can easily access the complete information regarding a specific product by clicking on the image or the product name. This redirects the user to the product detail page, where the user can see all information. From here, the user can return to the products page or add the item to the bag.
+When viewing all products, the user can easily access the complete information regarding a specific product by clicking on the image or the product name. This redirects the user to the product detail page, where the user can see all information. From here, the user can return to the products page or add the item to the bag. The user will also be able to comment on the product.
 
 **Sign Up**
 
@@ -162,6 +168,14 @@ Logged-in users can go to their profile page. Here they can view, update and del
 ![Shopping Bag Page and Mob Shopping Bag Page](/static/site_images/shopbag.png)
 
 Logging-in users can easily access their shopping bags by clicking on the bag icon in the navigation bar. From here, they can see the content in the bag and product information of their selected items. From here, they can also update and/or delete items as well as proceed to checkout or keep shopping. 
+
+**Checkout**
+
+![checkout Page and Mob checkout Page](/static/site_images/checkout.png)
+
+When customers finish shopping, they can click the checkout to complete their purchases. From this view, they can see their prefilled information, add new information or update if they wish. The customer is asked to provide billing details such as credit card information to complete the purchase. 
+
+[Back to content](#contents)
 
 
 
