@@ -157,6 +157,14 @@ When signed-in users are done on the page, they can sign out from their user acc
 
 Logged-in users can go to their profile page. Here they can view, update and delete information. On this page, the user also gets an overview of previous purchases and can view those in detail. 
 
+**Shopping Bag**
+
+![Shopping Bag Page and Mob Shopping Bag Page](/static/site_images/shopbag.png)
+
+Logging-in users can easily access their shopping bags by clicking on the bag icon in the navigation bar. From here, they can see the content in the bag and product information of their selected items. From here, they can also update and/or delete items as well as proceed to checkout or keep shopping. 
+
+
+
 
 
 
