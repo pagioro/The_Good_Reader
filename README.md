@@ -117,6 +117,10 @@ The front page is designed to give the user an instant understanding of the page
 
 **About Page**
 
+![About Page and Mob About Page](/static/site_images/about.png)
+
+The about page is strictly for informational purposes. 
+
 
 
 
