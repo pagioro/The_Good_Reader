@@ -68,14 +68,6 @@ Customers can call or send an email for help with products they've already purch
 
 [Back to content](#contents)
 
-## **Information Architecture**
-
-### **Database Models**
-
-Fazer depois
-
-
-
 ### **Planning Stage**
 
 The initial step in this project was to create a general visual idea of how the page should look. I decided to make the most common resources on a bookstore website that were presented and placed in conventional places on the page; for example, the search bar should be at the top, always easy to find.
@@ -218,6 +210,23 @@ Logging-in users can easily access their shopping bags by clicking on the bag ic
 When customers finish shopping, they can click the checkout to complete their purchases. From this view, they can see their prefilled information, add new information or update if they wish. The customer is asked to provide billing details such as credit card information to complete the purchase. 
 
 [Back to content](#contents)
+
+## **Information Architecture**
+
+### **Database Models**
+
+Fazer depois
+
+[Back to content](#contents)
+
+## **Features**
+
+### **Existing Features**
+
+### Header
+
+#### Navigation menu
+
 
 
 
