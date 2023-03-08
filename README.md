@@ -19,6 +19,40 @@
         * Images
     * [Wireframes](#Wireframes)
 
+    * **[Features](#Features)**
+    * [Existing Features](#Existing-Features)
+    * [General Features](#General-Features)
+    * [Future Features](#Future-Features)
+
+* **[SEO Implementation](#SEO-Implementation)**
+    * [Sitemap](#Sitemap)
+    * [Robots.txt](#Robots.txt)
+
+* **[Marketing Techniques](#Marketing-Techniques)**
+    * [Target Audience](#Target-Audience)
+    * [Social Media](#Social-Media)
+        * [Facebook](#Facebook)
+        * [Instagram](#Instagram)
+    * [Newsletter](#Newsletter)
+
+* **[Testing](#Testing)**
+
+* **[Bugs](#Bugs)**
+    * [Known Bugs](#Known-Bugs)
+
+* **[Technology Used](#Technology-Used)**
+    * [Main Languages Used](#Main-Languages-Used)
+    * [Frameworks, Libraries and Programs Used](#Frameworks-Libraries-and_Programs-Used)
+    
+
+* **[Deployment](#Deployment)**
+    * [Deploying on Heroku](#Deploying-on-Heroku)
+
+* **[Credits](#Credits)** 
+    * [Media](#Media)
+    * [Code](#Code)
+    * [Acknowledgements](#Acknowledgements)
+
     # **The Good Reader**
 
 ## **Introduction**
