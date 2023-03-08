@@ -133,6 +133,24 @@ When clicking on Products, either from the dropdown menu in the navigation bar o
 
 When viewing all products, the user can easily access the complete information regarding a specific product by clicking on the image or the product name. This redirects the user to the product detail page, where the user can see all information. From here, the user can return to the products page or add the item to the bag.
 
+**Sign Up**
+
+![Sign up Page and Mob Sign up Page](/static/site_images/signup.png)
+
+This is a simple and easy page for users to sign up for an account to shop more quickly and keep track of their previous purchases. 
+
+**Sign In**
+
+![Sign in Page and Mob Sign in Page](/static/site_images/signin.png)
+
+From here, users who already have an account can sign in to access their profile page. 
+
+**Sign Out**
+
+![Sign out Page and Mob Sign out Page](/static/site_images/signout.png)
+
+When signed-in users are done on the page, they can sign out from their user account. 
+
 
 
 
