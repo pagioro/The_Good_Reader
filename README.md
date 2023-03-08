@@ -125,7 +125,14 @@ The about page is strictly for informational purposes.
 
 ![Products Page and Mob Products Page](/static/site_images/products.png)
 
+When clicking on Products, either from the dropdown menu in the navigation bar or from the Shop Here link in the middle of the home page, you reach the items being sold now. Here you get an overview of the products, an image, name and price. 
+
+**Product Detail**
+
+![Products Detail Page and Mob Products Detail Page](/static/site_images/products-detail.png)
+
 When viewing all products, the user can easily access the complete information regarding a specific product by clicking on the image or the product name. This redirects the user to the product detail page, where the user can see all information. From here, the user can return to the products page or add the item to the bag.
+
 
 
 
