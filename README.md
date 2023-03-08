@@ -121,6 +121,14 @@ The front page is designed to give the user an instant understanding of the page
 
 The about page is strictly for informational purposes. 
 
+**Products Page**
+
+![Products Page and Mob Products Page](/static/site_images/products.png)
+
+When viewing all products, the user can easily access the complete information regarding a specific product by clicking on the image or the product name. This redirects the user to the product detail page, where the user can see all information. From here, the user can return to the products page or add the item to the bag.
+
+
+
 
 
 
