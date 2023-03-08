@@ -151,6 +151,14 @@ From here, users who already have an account can sign in to access their profile
 
 When signed-in users are done on the page, they can sign out from their user account. 
 
+**Profile**
+
+![Profile Page and Mob Profile Page](/static/site_images/profile.png)
+
+Logged-in users can go to their profile page. Here they can view, update and delete information. On this page, the user also gets an overview of previous purchases and can view those in detail. 
+
+
+
 
 
 
