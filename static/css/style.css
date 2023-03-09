@@ -331,7 +331,8 @@ input[name='q']::placeholder {
   background-color: #fff;
 }
 
-/*news*/
+
+/* Mail Chimp */
 
 .newsletter {
   padding: 80px 0;
@@ -363,28 +364,14 @@ input[name='q']::placeholder {
   color: #fff;
   font-weight:600;
   }
-
-/* Mail Chimp */
-
-#mc_embed_signup {
-  background:#00205b;
-  width: 100%;
-  font:14px Roboto,Arial,sans-serif; 
-  color:#fff; 
-  width:600px;
-}
-
 #mc_embed_signup_scroll {
-  width: 100%;
+  color: #fff;
+}
+#mc-embedded-subscribe {
+  margin: 0;
 }
 
-.mailchimp {
-  background:#00205b; 
-  padding: 1.25rem 1.25rem;
-  width: 100%;
-}
-
-/* Subscribe */
+/* Subscribe Footer*/
 
 .subscribe {   
     text-align: center;    
@@ -510,7 +497,7 @@ input[name='q']::placeholder {
 .allauth-form-inner-content button,
 .allauth-form-inner-content input[type='submit'] {
 /* btn */
-display: inline-block;
+  display: inline-block;
   font-weight: 400;
   color: #fff;
   text-align: center;
