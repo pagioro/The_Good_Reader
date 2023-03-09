@@ -271,6 +271,13 @@ You are directed to the product detail view when clicking on a product image or 
 
 As a superuser, you can easily navigate to manage specific products by clicking the Edit or Delete button. Clicking the Delete button removes the item, whilst clicking Edit takes you to the above page. Here the superuser can update all details regarding the product.
 
+#### User Profile
+
+![User Profile](/static/site_images/userprofile.png) 
+
+Choosing My Profile under the My Account link takes the user to their Profile. From here, the user can update or delete all information and get an overview of previous purchases. If the order number is clicked, the user will be redirected to the specifications of that particular purchase. This action requires that the user is logged in. If they do, they will be asked to log in or register.
+
+
 
 
 
