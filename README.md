@@ -265,6 +265,12 @@ Clicking on the link for All Products in the nav bar or the "Shop Now" link on t
 
 You are directed to the product detail view when clicking on a product image or its name. You get all the book information from here and can add it to your shopping bag. If the user is a superuser, there are options to edit and/or delete the products directly from here. There is also a button redirecting you to the All Products page.
 
+#### Manage Product
+
+![Manage Product](/static/site_images/manage-product.png)
+
+As a superuser, you can easily navigate to manage specific products by clicking the Edit or Delete button. Clicking the Delete button removes the item, whilst clicking Edit takes you to the above page. Here the superuser can update all details regarding the product.
+
 
 
 
