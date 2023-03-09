@@ -241,6 +241,12 @@ In the mobile version, the menu is located in the left corner and in the shape o
 
 In the footer, it is possible to subscribe to the website's newsletter, which was linked with Mail Chimp for capturing leads. It also has a link to the Facebook, Instagram and LinkedIn pages and buttons that lead to the privacy policy and contact pages. The same thing happened for the mobile version, but it was reduced and resized.
 
+#### Front Page
+
+![Front Page](/static/site_images/frontpage.png)
+
+An image showing a boy reading a book. The image has a brief description of the page and a link to access the products directly. The homepage is intended to be explanatory.
+
 
 
 
