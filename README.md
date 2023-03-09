@@ -235,6 +235,12 @@ The navigation bar on desktop screens is on the left side for easy viewing, and 
 ##### Mobile:
 In the mobile version, the menu is located in the left corner and in the shape of a hamburger that, when clicked, will show all the menu items, including the search bar. My account, shopping cart buttons, and logo are above in the centre.
 
+#### Footer
+
+![Footer Desktop](/static/site_images/footer-1.png) ![Footer Mobile](/static/site_images/footer-2.png)
+
+In the footer, it is possible to subscribe to the website's newsletter, which was linked with Mail Chimp for capturing leads. It also has a link to the Facebook, Instagram and LinkedIn pages and buttons that lead to the privacy policy and contact pages. The same thing happened for the mobile version, but it was reduced and resized.
+
 
 
 
