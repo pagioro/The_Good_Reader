@@ -247,6 +247,12 @@ In the footer, it is possible to subscribe to the website's newsletter, which wa
 
 An image showing a boy reading a book. The image has a brief description of the page and a link to access the products directly. The homepage is intended to be explanatory.
 
+#### About Page
+
+![About Page](/static/site_images/about-page.png)
+
+Users can get more information about The Good Reader on the About page. There is also contact information so the user can quickly contact us. 
+
 
 
 
