@@ -230,9 +230,9 @@ Fazer depois
 
 ![Navbar Desktop](/static/site_images/navbar-1.png) ![Navbar Mobile](/static/site_images/navbar-2.png) 
 
-Desktop:
+##### Desktop:
 The navigation bar on desktop screens is on the left side for easy viewing, and the clickable logo is just above. My account is shown on the side, which, when clicked, the person will be able to register on the site or login, and next to the shopping cart.
-Mobile:
+##### Mobile:
 In the mobile version, the menu is located in the left corner and in the shape of a hamburger that, when clicked, will show all the menu items, including the search bar. My account, shopping cart buttons, and logo are right above the centre.
 
 
