@@ -257,7 +257,7 @@ Users can get more information about The Good Reader on the About page. There is
 
 ![Products Page](/static/site_images/books-page.png)
 
-Clicking on the link for All Products in the nav bar or the "Shop Here" link on the Home page will take you to the product view. Here you get an overview of all products, their image, name and price. On this site, you can view a specific category by clicking one of the category buttons at the top. You can also sort the products by price, ascending and descending, name or author. 
+Clicking on the link for All Products in the nav bar or the "Shop Now" link on the Home page will take you to the product view. Here you get an overview of all products, their image, name and price. On this site, you can view a specific category by clicking one of the category buttons at the top. You can also sort the products by price, ascending and descending, name or author. 
 
 
 
