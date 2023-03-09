@@ -64,7 +64,7 @@ body {
 .shop-now-button {
     background: #70c8b5;
     color: #EAEFF2;;
-    min-width: 260px;
+    width: 70%;
 }
 
 .bg-black {
