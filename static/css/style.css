@@ -367,16 +367,21 @@ input[name='q']::placeholder {
 /* Mail Chimp */
 
 #mc_embed_signup {
-  background:#00205b; 
-  clear:left; 
-  font:14px Helvetica,Arial,sans-serif; 
+  background:#00205b;
+  width: 100%;
+  font:14px Roboto,Arial,sans-serif; 
   color:#fff; 
   width:600px;
+}
+
+#mc_embed_signup_scroll {
+  width: 100%;
 }
 
 .mailchimp {
   background:#00205b; 
   padding: 1.25rem 1.25rem;
+  width: 100%;
 }
 
 /* Subscribe */
