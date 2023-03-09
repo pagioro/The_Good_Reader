@@ -1,6 +1,6 @@
 # **The Good Reader**
 
-<!-- ![The Good Reader](/static/site_images/amiresponsive.png) -->
+![The Good Reader](/static/site_images/mockup.png)
 
 [View the live project here](https://the-good-reader.herokuapp.com/)
 
