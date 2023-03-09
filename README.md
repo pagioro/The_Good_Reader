@@ -116,6 +116,7 @@ To stay in line with the goal of presenting a clean and sophisticated website, I
 
 To keep the site visually appealing, I gave the header and footer a lighter background with a beige and green tint, and I gave the logo a black colour. In addition to these colours, I chose to keep the background white and the text black on some pages.
 
+- Blue: #19beda
 - Green: #70c8b5
 - Gray: #D6E4E5
 - Dark blue: #00205b
