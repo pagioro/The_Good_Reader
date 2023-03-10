@@ -307,6 +307,14 @@ After the user has completed the purchase, the user will be directed to the Orde
 
 Any site user can quickly sign up for a Newsletter subscription to participate in news, offers etc. By entering their email, they will receive newsletters. This service is handled by the [MailChimp Service](https://mailchimp.com).
 
+[Back to content](#contents)
+
+### **General Features**
+
+* Alert Message
+
+![Alert Message](/static/site_images/alert.png)
+
 
 
 
