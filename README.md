@@ -331,7 +331,39 @@ An alert is displayed whenever the user interacts with the page, ie logs in, add
 
 I used the following words as Meta keywords to optimize SEO:
 
+- online bookstore
+- books
+- conservatism
+- healthy
+- fitness
+- biography
+- sports
+- author
+- Roger Scruton
+- Matthew Continetti
+- Stephen King
+- Dr. Charles B. Corbin
+- Hermione Lee
 
+*Meta Description Tag:*
+
+- "online bookstore where you can find all kinds of books"
+
+All images displayed on the page have descriptive alternative text for better search engine optimzation. 
+
+[Back to content](#contents)
+
+### **Sitemap**
+
+The site has been equipped with a [Sitemap.xml](/sitemap.xml).
+
+[Back to content](#contents)
+
+### **Robots.txt**
+
+The site has been equipped with a [Robots.txt file](/robots.txt). 
+
+[Back to content](#contents)
 
 
 
