@@ -295,6 +295,14 @@ Users are taken to the Shopping Bag view when they click on the shopping bag ico
 
 When the user finishes shopping, they can go to the Checkout Page. From here, they get to either fill in their shipping and billing information or complete the missing parts if they have information saved since before. Besides basic information like address, the user can also add additional shipping information.
 
+#### Order Confirmation
+
+![Order Confirmation](/static/site_images/order-confirmation.png)
+
+After the user has completed the purchase, the user will be directed to the Order Confirmation page. From here, the user gets a complete purchase overview, shipping and billing information, and additional information.
+
+
+
 
 
 
