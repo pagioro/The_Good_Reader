@@ -301,6 +301,14 @@ When the user finishes shopping, they can go to the Checkout Page. From here, th
 
 After the user has completed the purchase, the user will be directed to the Order Confirmation page. From here, the user gets a complete purchase overview, shipping and billing information, and additional information.
 
+#### Newsletter Subscription
+
+![Newsletter Subscription](/static/site_images/subscribe.png)
+
+Any site user can quickly sign up for a Newsletter subscription to participate in news, offers etc. By entering their email, they will receive newsletters. This service is handled by the [MailChimp Service](https://mailchimp.com).
+
+
+
 
 
 
