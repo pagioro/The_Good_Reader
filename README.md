@@ -387,7 +387,17 @@ Again, you need to have the sensitivity to see if what you consider the target a
 ![Facebook 2](/static/site_images/fb-2.jpg)
 ![Facebook 3](/static/site_images/fb-3.jpg)
 
+### Contact Form
 
+The Good Reader website has a contact form, meaning the website owner can send emails about special offers, upcoming campaigns, information, etc.
+
+[Back to content](#contents)
+
+## **Testing**
+
+Fazer depois
+
+[Back to content](#contents)
 
 
 
