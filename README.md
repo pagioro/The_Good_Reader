@@ -319,6 +319,18 @@ An alert is displayed whenever the user interacts with the page, ie logs in, add
 
 [Back to content](#contents)
 
+### **Future Features**
+
+* A future version of The Good Reader would add the wishlist button and a specific page with the user's desired products.
+* Other book-related products can be added to the product list.
+* Another feature the website owner can easily manage is the special offers or gifts for the customers on their birthdays. Include the option to add your date of birth to your profile, allowing the site owner to use this information.
+
+[Back to content](#contents)
+
+## **SEO Implementation**
+
+I used the following words as Meta keywords to optimize SEO:
+
 
 
 
