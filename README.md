@@ -365,6 +365,21 @@ The site has been equipped with a [Robots.txt file](/robots.txt).
 
 [Back to content](#contents)
 
+## **Marketing Techniques**
+
+### **Target Audience**
+
+Defining the target audience for books goes far beyond focusing on those people whom the author thought of when writing the work — if he even imagined such a specific group.
+The theme is undoubtedly one of the significant factors in defining the target audience. What does the book talk about? Culinary recipes? Alien stories? Biography of a rock star? From this answer, it is possible to take reasonable steps towards the potential readers of the publication.
+Of course, even with the definition of an audience, there will always be readers outside that niche who will seek the book. For example, work with an adventure story and more straightforward language may be aimed at young male readers. Still, nothing prevents a 40-year-old woman from becoming interested in the content and consuming the product.
+In other words, you need to focus on most of the target audience in your publicity and sales strategy while remembering the others who may be interested.
+Consumer habits and trends vary significantly according to each generation. While older readers are still attached to paper publications, younger readers may have a taste for digital books.
+Again, you need to have the sensitivity to see if what you consider the target audience “talks” with what is covered in the publication and how the work will be made available.
+
+### Social Media
+
+#### Facebook
+
 
 
 
