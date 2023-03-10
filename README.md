@@ -721,7 +721,7 @@ class MediaStorage(S3Boto3Storage):
 
 ### **Media**
 
-* All images on the site are taken from [Pexels](https://www.pexels.com/sv-se/). 
+* All images on the site are taken from [Pexels](https://www.pexels.com/). 
 
 [Back to content](#contents)
 
