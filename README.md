@@ -380,6 +380,13 @@ Again, you need to have the sensitivity to see if what you consider the target a
 
 #### Facebook
 
+[The Good Reader Facebook Page](https://www.facebook.com/profile.php?id=100089263505322)
+*Since Facebook regularly deletes mock-up pages I can not guarantee that the page will still be there, hence I have taken screen shots of the created page.
+
+![Facebook 1](/static/site_images/fb-1.png)
+![Facebook 2](/static/site_images/fb-2.png)
+![Facebook 3](/static/site_images/fb-3.png)
+
 
 
 
