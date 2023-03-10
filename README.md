@@ -315,6 +315,10 @@ Any site user can quickly sign up for a Newsletter subscription to participate i
 
 ![Alert Message](/static/site_images/alert.png)
 
+An alert is displayed whenever the user interacts with the page, ie logs in, adds a product to the shopping bag, updates their user profile etc. It is a general feature that applies all over the page. 
+
+[Back to content](#contents)
+
 
 
 
