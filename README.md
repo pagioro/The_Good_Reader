@@ -293,6 +293,8 @@ Users are taken to the Shopping Bag view when they click on the shopping bag ico
 
 ![Checkout Page 1](/static/site_images/checkout-1.png) 
 
+When the user finishes shopping, they can go to the Checkout Page. From here, they get to either fill in their shipping and billing information or complete the missing parts if they have information saved since before. Besides basic information like address, the user can also add additional shipping information.
+
 
 
 
