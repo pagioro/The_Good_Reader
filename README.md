@@ -585,7 +585,7 @@ EMAIL_HOST_USER is the gmail email address
 
 ### Setting AWS bucket
 
-1. Go to [Amzon Web Services](https://aws.amazon.com/) page and login or register
+1. Go to [Amazon Web Services](https://aws.amazon.com/) page and login or register
 
 2. You should be redirected to AWS Management Console, if not click onto AWS logo in top left corner or click Services icon and choose Console Home
 
