@@ -277,6 +277,12 @@ As a superuser, you can easily navigate to manage specific products by clicking 
 
 Choosing My Profile under the My Account link takes the user to their Profile. From here, the user can update or delete all information and get an overview of previous purchases. If the order number is clicked, the user will be redirected to the specifications of that particular purchase. This action requires that the user is logged in. If they do, they will be asked to log in or register.
 
+#### Sign Up / In / Log Out
+
+![Sign Up/In/Out](/static/site_images/signup-in-out-page.png)
+
+These pages are very straightforward, and intentionally the layout is kept simple since the user is not supposed to linger here. The user can easily access the different options Sign Up, Sign In or Log Out from the nav bar. Other options depend on the user's status; only logged-in users can log out, and vice versa. From here, users can also ask to reset their password in case they forget it. 
+
 
 
 
