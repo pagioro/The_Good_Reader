@@ -609,20 +609,7 @@ EMAIL_HOST_USER is the gmail email address
 7. On the **Permissions** tab:
 - Cross-origin resource sharing (**CORS**) Paste in the below code as configuration and save
 
-[
-  {
-      "AllowedHeaders": [
-          "Authorization"
-      ],
-      "AllowedMethods": [
-          "GET"
-      ],
-      "AllowedOrigins": [
-          "*"
-      ],
-      "ExposeHeaders": []
-  }
-]
+![CORS](/static/site_images/cors.png)
 
 - **Bucket Policy** within permissions tab: Edit bucket policy
 Click AWS Policy Generator (top right conrner)
