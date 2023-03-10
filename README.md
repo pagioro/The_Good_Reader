@@ -283,6 +283,16 @@ Choosing My Profile under the My Account link takes the user to their Profile. F
 
 These pages are very straightforward, and intentionally the layout is kept simple since the user is not supposed to linger here. The user can easily access the different options Sign Up, Sign In or Log Out from the nav bar. Other options depend on the user's status; only logged-in users can log out, and vice versa. From here, users can also ask to reset their password in case they forget it. 
 
+#### Shopping bag
+
+![Shopping Bag](/static/site_images/shoppingbag.png)
+
+Users are taken to the Shopping Bag view when they click on the shopping bag icon in the nav bar. The Shopping Bag displays the items currently in the bag and an easy option to update the quantity or delete them. If no items are in the shopping bag, a message stating so is displayed along with a button directing back to the product's site. You can also see the price for each item, the total price and whether or not you have reached the free shipping limit ($20). From the Shopping Bag view, you can either go back to the Products view or proceed to the secure Checkout.
+
+#### Checkout Page
+
+![Checkout Page 1](/static/site_images/checkout-1.png) 
+
 
 
 
