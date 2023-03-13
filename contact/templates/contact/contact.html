@@ -15,8 +15,7 @@
             <img class="about-img img-fluid" src="{{ MEDIA_URL }}contact.jpg"" alt="contact">
           </div>
           <div class="col-md-6 mt-5">            
-              <form action="{% url 'contact' %}" class="about-form" method="POST" enctype="multipart/form-data">
-                  {{ contact_form | crispy }}
+              <form action="{% url 'contact' %}" class="about-form" method="POST" enctype="multipart/form-data">                  
                   {% csrf_token %}                         
                   <div>
                     {{ contact_form.name|as_crispy_field }}
