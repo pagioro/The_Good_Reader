@@ -2,7 +2,7 @@ from .models import Contact
 from django import forms
 
 
-class CommentForm(forms.ModelForm):
+class ContactForm(forms.ModelForm):
     """
     Contact form
     """
