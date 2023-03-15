@@ -213,9 +213,12 @@ input[name='q']::placeholder {
   width: auto;
 }
 
-
 .products {
   background-color: #fff;
+}
+
+.container-padding {
+  margin: 0;
 }
 
 .container-fluid, 
