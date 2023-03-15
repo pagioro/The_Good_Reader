@@ -221,6 +221,10 @@ input[name='q']::placeholder {
   margin: 0;
 }
 
+.back-comment {
+  padding-bottom: 1.25rem;
+}
+
 .container-fluid, 
 .container-lg, 
 .container-md, 
@@ -229,6 +233,7 @@ input[name='q']::placeholder {
   padding-right: 0;
   padding-left: 0;
 }
+
 /* Author.html */
 
 .author-img {

@@ -133,16 +133,16 @@
                 <form method="post" style="margin-top: 1.3em;">
                     {{ comment_form | crispy }}
                     {% csrf_token %}
-                    <button type="submit" class="btn">Submit</button>
+                    <button type="submit" class="btn btn btn-outline-info mt-5">Submit</button>
                 </form>
                 {% endif %}
                 {% endif %}
             </div>
         </div>  
     
-        <div class="container text-center">
+        <div class="back-comment container text-center">
             <br /><br />
-            <a href="{% url 'home' %}" class="back-button btn-default">Back</a>
+            <a href="{% url 'home' %}" class="btn btn btn-outline-info mt-5">Back</a>
         </div>
 
 </section>
