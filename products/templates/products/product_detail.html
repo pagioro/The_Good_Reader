@@ -138,7 +138,23 @@
                 {% endif %}
                 {% endif %}
             </div>
-        </div>  
+        </div> 
+        
+        <!-- Update/Delete Comment -->
+        <div class="container mt-4">
+            <div class="row">
+                <div class="col">
+                    {% if request.user == post.id_user %}
+                    <h5>Manage your recipe:</h5>
+                    <strong>{{ post.id_user }}</strong> - {{ post.title }}
+                    <p><a href="{% url 'edit_recipe' post.slug %}"><button
+                        class="btn btn-success edit-recipe"><i class="fa fa-edit"></i> | Edit</button></a>
+                    <a href="{% url 'delete_recipe' slug %}"><button class="btn btn-danger">
+                        <i class="fa fa-trash"></i> | Delete</button></a></p>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
     
         <div class="back-comment container text-center">
             <br /><br />
