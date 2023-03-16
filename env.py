@@ -6,3 +6,4 @@ os.environ['SECRET_KEY']='18FaVCLeaxg37m1TGspDRBPusl/tGCW2QQEM5OzEVI4='
 os.environ['DATABASE_URL']='postgres://vdvnjmed:ENmbsJtCM6_pggMWuBpPavEYDvwxp51N@mel.db.elephantsql.com/vdvnjmed'
 os.environ['EMAIL_HOST_USER']='pagioropari@gmail.com'
 os.environ['EMAIL_HOST_PASS']='glkaruhsyffatynk'
+os.environ['DEVELOPMENT']
