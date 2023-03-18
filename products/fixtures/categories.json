@@ -1,6 +1,6 @@
 [
     {
-        "pk": 1,
+        "pk": 2,
         "model": "products.category",
         "fields": {
             "name": "conservatism",
@@ -8,7 +8,7 @@
         }
     },
     {
-        "pk": 2,
+        "pk": 1,
         "model": "products.category",
         "fields": {
             "name": "biography",
