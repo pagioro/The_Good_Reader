@@ -1,0 +1,91 @@
+{% extends "product_detail.html" %}
+{% load static %}
+
+{% block page_header %}
+{% endblock %}
+
+{% block content %}
+
+<!-- Comments -->
+<div class="row container-padding">
+    <div class="col-md-6">
+        <h3 class="comments-title">Comments:</h3>
+        <div class="col-1">
+            {% with Comment.count as total_comments %}
+            <strong class="text-secondary"><i class="far fa-comments"></i>                    
+                {{ total_comments }}</strong>
+            {% endwith %}
+        </div>
+        <div class="card-body">
+            {% for Comment in comments %}
+            <div class="comments">
+                <p class="font-weight-bold">
+                    {{ Comment.name }}
+                    <span class=" text-muted font-weight-normal">
+                        {{ Comment.created_date }}
+                    </span> wrote:
+                </p>
+                {{ Comment.content | linebreaks }}
+                {% if request.user == Comment.id_user %}
+                    <p><a href="{% url 'delete_comment' Comment.pk %}">
+                    <button class="btn-danger"><i class="fa fa-trash"></i> | Delete</button></a></p>
+                {% endif %}
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div>
+            {% if commented %}
+            <div class="alert alert-success" role="alert">
+                Your comment is awaiting approval                    
+            </div>
+            {% for message in messages %}
+                <div class="alert {{ message.tags }} alert alert-sucess fade show msg-submit" role="alert">
+                    {{ message | safe }}
+                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                </div> 
+                {% if request.user == comment.id_user %}
+                <form method="POST" action="{% url 'delete_comment' comment.pk %}"> {% csrf_token %}
+                    <input class="btn-sm btn-outline-danger" type="submit" value="Delete comment">
+                </form>
+                {% endif %}
+            {% endfor %}                    
+            </div>
+            {% else %}
+            {% if user.is_authenticated %}
+            
+            <h3>Leave a comment:</h3>
+            <p>Posting as: {{ user.username }}</p>
+            <form method="post" style="margin-top: 1.3em;">
+                {{ comment_form | crispy }}
+                {% csrf_token %}
+                <button type="submit" class="btn btn btn-outline-info mt-5">Submit</button>
+            </form>
+            {% endif %}
+            {% endif %}
+        </div>
+    </div> 
+    
+    <!-- Update/Delete Comment -->
+    <div class="container mt-4">
+        <div class="row">
+            <div class="col">
+                {% if request.user == post.id_user %}
+                <h5>Manage your recipe:</h5>
+                <strong>{{ post.id_user }}</strong> - {{ post.title }}
+                <p><a href="{% url 'edit_recipe' post.slug %}"><button
+                    class="btn btn-success edit-recipe"><i class="fa fa-edit"></i> | Edit</button></a>
+                <a href="{% url 'delete_recipe' slug %}"><button class="btn btn-danger">
+                    <i class="fa fa-trash"></i> | Delete</button></a></p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+    <div class="back-comment container text-center">
+        <br /><br />
+        <a href="{% url 'home' %}" class="btn btn btn-outline-info mt-5">Back</a>
+    </div>
+
+{% endblock %}
