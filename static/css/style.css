@@ -10,10 +10,6 @@ body {
     font-family: 'Roboto';
 }
 
-.row {
-  margin-right: none;
-}
-
 /* from Bulma */
 .icon {
     align-items: center;
@@ -431,6 +427,11 @@ input[name='q']::placeholder {
     align-items: center;
     justify-content: center;
   }
+
+  
+.row {
+  margin-right: 1px;
+}
 
   .footer-end {
     text-align: center;
