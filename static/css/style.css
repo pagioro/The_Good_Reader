@@ -388,7 +388,7 @@ input[name='q']::placeholder {
     text-align: center;    
     background-color: #70c8b5;
     padding: 1.25rem 1.25rem;
-    margin-right: auto;
+    margin-right: auto !important;
   }
    
   .subscribe-right {  
