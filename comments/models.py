@@ -19,11 +19,11 @@ class Comment(models.Model):
     approved = models.BooleanField(default=False)
 
 
-# class Meta:
-#     """
-#     Orders the comments in ascending order
-#     """
-#     ordering = ['-created_date']
+class Meta:
+    """
+    Orders the comments in ascending order
+    """
+    ordering = ['-created_date']
 
-#     def __str__(self):
-#         return f"Comment {self.content} by {self.name}"
+    def __str__(self):
+        return f"Comment {self.content} by {self.name}"
