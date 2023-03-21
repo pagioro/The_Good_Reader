@@ -433,8 +433,6 @@ The Good Reader website has a contact form, meaning the website owner can send e
 
 ## **Testing**
 
-## **Testing**
-
 Testing was done manually throughout the development process. The full rundown of the testing can be found in a separate [testing.md file](/TESTING.md). 
 
 [Back to content](#contents)
