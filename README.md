@@ -93,6 +93,7 @@ I'll do it later
 *GitHub’s Kanban feature was used to track the progress of user stories.*
 
 **Viewing and Navigation**
+
 As a customer I can view a list of products so that I can select some purchases.
 As a customer I can view a specific product category so that I can find products I'm interested in without having to search through all products.
 As a customer I can view individual product details so that I can identify the author, category, price, description and image.
@@ -103,6 +104,7 @@ As a customer I can view the Contact Us option so that I can view the options to
 As a customer I can view individual product details so that I can make a comment and fill out my name, comment and email.
 
 **Registration and User Accounts**
+
 As a customer I can easily register for an account so that I can have a personal account and view my profile.
 As a customer I can subscribe to receive a newsletter so that I can fill out my email address and subscribe.
 As a site user, I can log in or out to access my personal account information.
@@ -111,11 +113,13 @@ As a site user I can receive an email confirmation after registering to confirm 
 As a site user I can have a personalized user profile to view my order history and save my default delivery information.
 
 **Sorting and Searching**
+
 As a customer I can sort the list of available products so that I can identify sort by name, author, best and high price.
 As a customer I can search for a product by title, author or keyword so that I can find a specific product I want to purchase. 
 As a customer I can see what I have searched for and the number of results so that I can decide whether the product I want is available.
 
 **Purchasing and Check out**
+
 As a customer I can select a product when purchasing it so that I can ensure I choose the right product and quantity.
 As a customer I can add a product to my bag so that I can store into my bag items before I define the total order.
 As a customer I can view items in my bag to be purchased so that I can identify the total value of my purchase and all items I will receive.
@@ -126,6 +130,7 @@ As a customer I can view an order confirmation after checkout so that I can veri
 As a customer I can receive an email confirmation after checkout to keep my purchase warranty.
 
 **Admin and Store Management**
+
 As a site administrator user I can create, view, update and delete products so that I can add new items, change prices, descriptions, and images, and remove items that are no longer for sale.
 As a site administrator user I can have disposable the product management option so that I can create new products.
 
