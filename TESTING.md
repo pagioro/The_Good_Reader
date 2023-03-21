@@ -1,4 +1,4 @@
-# BloomRoom
+# The Good Reader
 
 [Main README.md file](/README.md)
 
