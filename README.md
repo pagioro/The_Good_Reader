@@ -94,14 +94,14 @@ I'll do it later
 
 **Viewing and Navigation**
 
-As a customer I can view a list of products so that I can select some purchases.
-As a customer I can view a specific product category so that I can find products I'm interested in without having to search through all products.
-As a customer I can view individual product details so that I can identify the author, category, price, description and image.
-As a customer I can view the total of my purchases so that I can define my investment at any time.
-As a customer I can view the about option so that I can view the description, email and phone number of the about option.
-As a customer I can view the author's option so that I can view the photo, name, country, known for and description of the author's option.
-As a customer I can view the Contact Us option so that I can view the options to fill out my name, email, title and description to submit them of the Contact Us option.
-As a customer I can view individual product details so that I can make a comment and fill out my name, comment and email.
+- As a customer I can view a list of products so that I can select some purchases.
+- As a customer I can view a specific product category so that I can find products I'm interested in without having to search through all products.
+- As a customer I can view individual product details so that I can identify the author, category, price, description and image.
+- As a customer I can view the total of my purchases so that I can define my investment at any time.
+- As a customer I can view the about option so that I can view the description, email and phone number of the about option.
+- As a customer I can view the author's option so that I can view the photo, name, country, known for and description of the author's option.
+- As a customer I can view the Contact Us option so that I can view the options to fill out my name, email, title and description to submit them of the Contact Us option.
+- As a customer I can view individual product details so that I can make a comment and fill out my name, comment and email.
 
 **Registration and User Accounts**
 
