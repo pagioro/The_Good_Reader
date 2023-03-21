@@ -39,3 +39,17 @@ I will do it later
 * Result: The navigation bar is visible on every site page. The links are toggled for a better user experience when viewed on smaller screens. 
 * Verdict: Code functions as intended.
 
+#### Logo
+
+* Expected Outcome: When clicking the logo, the user should be redirected to the home page.
+* Test: I tried clicking the logo from all different site pages as a logged-in user or not. 
+* Result: Whenever I clicked the logo, I was redirected to the home page.
+* Verdict: Code functions as intended.
+
+#### Home Link
+
+* Expected Outcome: The user should be redirected to the Home page when clicking the Home link.
+* Test: I tried clicking the Home link from all different pages on the site, both as a logged-in user and not.
+* Result: Whenever I clicked the Home link, I was redirected to the home page. 
+* Verdict: Code functions as intended.
+
