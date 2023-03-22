@@ -83,7 +83,7 @@ The app is designed as an e-commerce application that encourages users to make p
 
 **Epics**
 
-- The general goals created at the beginning of the project resulted in more specific user stories and are presented below with a related connection to each other:
+The general goals created at the beginning of the project resulted in more specific user stories and are presented below with a related connection to each other:
 
 - Personal account management has to be easily accessible for the site user.
 User stories 9, 11, 12, 13, 14. 
