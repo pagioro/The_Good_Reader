@@ -83,9 +83,22 @@ The app is designed as an e-commerce application that encourages users to make p
 
 **Epics**
 
+- The general goals created at the beginning of the project resulted in more specific user stories and are presented below with a related connection to each other:
 
-I'll do it later
+- Personal account management has to be easily accessible for the site user.
+User stories 9, 11, 12, 13, 14. 
 
+- Guarantee of customer-friendly product searching and viewing available.
+User stories 1, 2, 3, 6, 15, 16, 17. 
+
+- Guarantee of the easily accessible available process for customer purchases.
+User stories 4, 18, 19, 20, 21, 22, 23, 24, 25.
+
+- Product management has to be easily accessible and available for the site administrator user.
+User stories 26, 27. 
+
+- Constant feedback to customers when interacting with the site.
+User stories 5, 7, 8, 10.
 
 ### **User Stories**
 
@@ -254,7 +267,12 @@ When customers finish shopping, they can click the checkout to complete their pu
 
 ### **Database Models**
 
-Fazer depois
+
+
+
+
+
+
 
 [Back to content](#contents)
 
