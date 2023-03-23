@@ -278,15 +278,79 @@ When customers finish shopping, they can click the checkout to complete their pu
 |            | image_url   | URLField     |
 |            | image       | ImageField   |
 
+*Order*
+| Key:       | Name:           | Type:         |
+|------------|-----------------|---------------|
+|            | order_number    | CharField     |
+| ForeignKey | user_profile    | User Model    |
+|            | full_name       | CharField     |
+|            | email           | EmailField    |
+|            | phone_number    | CharField     |
+|            | country         | CountryField  |
+|            | postcode        | CharField     |
+|            | town_or_city    | CharField     |
+|            | street_address1 | CharField     |
+|            | street_address2 | CharField     |
+|            | county          | CharField     |
+|            | date            | DateTimeField |
+|            | delivery_cost   | DecimalField  |
+|            | order_total     | DecimalField  |
+|            | grand_total     | DecimalField  |
+|            | original_bag    | TextField     |
+|            | stripe_pid      | CharField     |
+
+*OrderLineItem*
+| Key:       | Name:           | Type:         |
+|------------|-----------------|---------------|
+| ForeignKey | order           | User Model    |
+| ForeignKey | product         | User Model    |
+|            | quantity        | IntegerField  |
+|            | lineitem_total  | DecimalField  |
+
+*Contact*
+| Key:       | Name:           | Type:         |
+|------------|-----------------|---------------|
+|            | name            | CharField     |
+|            | email           | CharField     |
+|            | title           | CharField     |
+|            | description     | CharField     |
+
+*Product*
+| Key:       | Name:           | Type:         |
+|------------|-----------------|---------------|
+| ForeignKey | category        | User Model    |
+|            | sku             | CharField     |
+|            | name            | CharField     |
+|            | author          | CharField     |
+|            | description     | TextField     |
+|            | price           | DecimalField  |
+|            | image_url       | URLField      |
+|            | image           | ImageField    |
+
+*Category*
+| Key:       | Name:           | Type:         |
+|------------|-----------------|---------------|
+|            | name            | CharField     |
+|            | friendly_name   | CharField     |
+
+*UserProfile*
+| Key:       | Name:                   | Type:         |
+|------------|-------------------------|---------------|
+|            | user                    | OneToOneField |
+|            | default_phone_number    | CharField     |
+|            | default_street_address1 | CharField     |
+|            | default_street_address2 | CharField     |
+|            | default_town_or_city    | CharField     |
+|            | default_county          | CharField     |
+|            | default_postcode        | CharField     |
+|            | default_country         | CountryField  |
+
+*Comment*
+| Key:       | Name:                   | Type:         |
+|------------|-------------------------|---------------|
+|            |                         |               |
 
 
-
-
-
-*Author*
-| Key:       | Name:       | Type:        |
-|------------|-------------|--------------|
-|            | name        | User Model   |
 
 
 
