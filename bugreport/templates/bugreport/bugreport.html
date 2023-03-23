@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% load static %}
+{% load crispy_forms_tags %}
+
+{% block page_header %}
+{% endblock %}
+
+{% block content %}
+
+<div class="contact container-fluid">
+    <div class="container">
+        <div class="row">
+          <div class="col-md-6 mt-5">
+            <h2>Bug Report Form</h2>
+            <img class="about-img img-fluid" src="" alt="Bug_Report">
+          </div>
+          <div class="col-md-6 mt-5">            
+              <form action="{% url 'bugreport' %}" class="about-form" method="POST" enctype="multipart/form-data">                  
+                  {% csrf_token %}                         
+                  <div>
+                    {{ bugreport_form.title|as_crispy_field }}
+                  </div>                
+                  <div>
+                    {{ bugreport_form.description|as_crispy_field }}
+                  </div>
+                  <div>
+                    {{ bugreport_form.browser|as_crispy_field }}
+                  </div>
+                  <div>
+                    {{ bugreport_form.os|as_crispy_field }}
+                  </div>   
+                  <div>
+                    {{ bugreport_form.resolution|as_crispy_field }}
+                  </div>      
+                  <button type="submit" class="btn btn-secondary submit-form">Submit</button>
+              </form>               
+          </div>
+        </div>
+      </div>
+    </div>
+
+{% endblock %}
