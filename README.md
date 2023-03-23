@@ -267,10 +267,26 @@ When customers finish shopping, they can click the checkout to complete their pu
 
 ### **Database Models**
 
+*Author*
+| Key:       | Name:       | Type:        |
+|------------|-------------|--------------|
+|            | name        | CharField    |
+|            | country     | CharField    |
+|            | bio         | CharField    |
+|            | known_for   | CharField    |
+|            | image_url   | CharField    |
+|            | image_url   | URLField     |
+|            | image       | ImageField   |
 
 
 
 
+
+
+*Author*
+| Key:       | Name:       | Type:        |
+|------------|-------------|--------------|
+|            | name        | User Model   |
 
 
 
