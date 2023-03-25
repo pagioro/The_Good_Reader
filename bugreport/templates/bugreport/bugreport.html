@@ -7,36 +7,37 @@
 
 {% block content %}
 
-<div class="contact container-fluid">
-    <div class="container">
-        <div class="row">
-          <div class="col-md-6 mt-5">
-            <h2>Bug Report Form</h2>
-            <img class="about-img img-fluid" src="" alt="Bug_Report">
-          </div>
-          <div class="col-md-6 mt-5">            
-              <form action="{% url 'bugreport' %}" class="about-form" method="POST" enctype="multipart/form-data">                  
-                  {% csrf_token %}                         
-                  <div>
-                    {{ bugreport_form.title|as_crispy_field }}
-                  </div>                
-                  <div>
-                    {{ bugreport_form.description|as_crispy_field }}
+<section class="bugreport py-4 py-xl-5">
+  <div class="container">
+      <div class="row d-flex justify-content-center">
+          <div class="col-md-8 col-lg-6 col-xl-5">
+              <div class="card">
+                  <div class="card-body text-center p-sm-5">
+                      <h2 class="font-weight-bold mb-3">Bug Report Form</h2>
+                      <form action="{% url 'bugreport' %}" class="about-form" method="POST" enctype="multipart/form-data">                  
+                        {% csrf_token %}                         
+                        <div>
+                          {{ bugreport_form.title|as_crispy_field }}
+                        </div>                
+                        <div>
+                          {{ bugreport_form.description|as_crispy_field }}
+                        </div>
+                        <div>
+                          {{ bugreport_form.browser|as_crispy_field }}
+                        </div>
+                        <div>
+                          {{ bugreport_form.os|as_crispy_field }}
+                        </div>   
+                        <div>
+                          {{ bugreport_form.resolution|as_crispy_field }}
+                        </div>      
+                        <button type="submit" class="btn btn-secondary submit-form">Send</button>
+                    </form> 
                   </div>
-                  <div>
-                    {{ bugreport_form.browser|as_crispy_field }}
-                  </div>
-                  <div>
-                    {{ bugreport_form.os|as_crispy_field }}
-                  </div>   
-                  <div>
-                    {{ bugreport_form.resolution|as_crispy_field }}
-                  </div>      
-                  <button type="submit" class="btn btn-secondary submit-form">Submit</button>
-              </form>               
+              </div>
           </div>
-        </div>
       </div>
-    </div>
+  </div>
+</section>
 
 {% endblock %}

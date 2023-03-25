@@ -329,6 +329,11 @@ input[name='q']::placeholder {
   overflow-y: auto;
 }
 
+/* Bug Report Form */
+
+.bugreport {
+  background-color: #fff;
+}
 
 /* Product Detail */
 /* Products */
