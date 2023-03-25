@@ -5,4 +5,4 @@ class Bugreport(models.Model):
     description = models.CharField(max_length=254)
     browser = models.CharField(max_length=254)
     os = models.CharField(max_length=254)
-    resolution = models.CharField(max_length=254)
+    email = models.CharField(max_length=254)

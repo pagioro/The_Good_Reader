@@ -13,5 +13,5 @@ class BugreportForm(forms.ModelForm):
             'description',            
             'browser',
             'os',
-            'resolution',
+            'email',
         ]
