@@ -219,6 +219,18 @@ The author's page displays some renowned authors with a few of their life storie
 
 When clicking on Products, either from the dropdown menu in the navigation bar or from the Shop Here link in the middle of the home page, you reach the items being sold now. Here you get an overview of the products, an image, name and price. 
 
+**Contact Page**
+
+![Contact Page and Mob Contact Page](/static/site_images/contact.png)
+
+Form to contact the store
+
+**Bug Report Form**
+
+![Bug Report Form Page and Bug Report Form Contact Page](/static/site_images/bugreport.png)
+
+A form that the user can contact the store if he finds a problem on the site.
+
 **Product Detail**
 
 ![Products Detail Page and Mob Products Detail Page](/static/site_images/products-detail.png)
@@ -345,7 +357,7 @@ When customers finish shopping, they can click the checkout to complete their pu
 |            | default_postcode        | CharField     |
 |            | default_country         | CountryField  |
 
-*Comment*
+*Bug Report Form*
 | Key:       | Name:                   | Type:         |
 |------------|-------------------------|---------------|
 |            |                         |               |
