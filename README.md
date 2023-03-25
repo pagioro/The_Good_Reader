@@ -323,7 +323,7 @@ When customers finish shopping, they can click the checkout to complete their pu
 | Key:       | Name:           | Type:         |
 |------------|-----------------|---------------|
 |            | name            | CharField     |
-|            | email           | CharField     |
+|            | email           | EmailField     |
 |            | title           | CharField     |
 |            | description     | CharField     |
 
