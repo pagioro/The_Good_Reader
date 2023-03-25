@@ -152,7 +152,7 @@ input[name='q']::placeholder {
 /* Contact Page*/
 
 .contact {
-  background-color: #D6E4E5;
+  background-color: #F7F7F7;
   padding-bottom: 1.25rem;
   font-weight: bold;
 }
@@ -343,7 +343,6 @@ input[name='q']::placeholder {
  {
   background-color: #fff;
 }
-
 
 /* Mail Chimp */
 
