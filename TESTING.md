@@ -89,7 +89,7 @@ All files tested passed with no errors.
 
 The site has been tested with Lighthouse.
 
-![Lighthouse](site_images/lighthouse.png)
+![Lighthouse](/static/site_images/lighthouse.png)
 
 [Back to content](#contents)
 
