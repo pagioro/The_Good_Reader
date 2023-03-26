@@ -85,3 +85,27 @@ All files tested passed with no errors.
 
 [Back to content](#contents)
 
+## **Lighthouse**
+
+The site has been tested with Lighthouse.
+
+![Lighthouse](/static/site_images/lighthouse.png)
+
+[Back to content](#contents)
+
+## **Browser validation**
+
+The site has been tested using the following browsers:
+
+- Chrome
+- Edge
+- Firefox
+- Safari
+
+[Back to content](#contents)
+
+## **User testing**
+
+Many users tested the site on all screen sizes during its development.
+
+[Back to content](#contents)
