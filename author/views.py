@@ -12,4 +12,3 @@ def get_authors(request):
     }
 
     return render(request, 'author/author.html', context)
-    
