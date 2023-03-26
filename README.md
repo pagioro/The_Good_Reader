@@ -403,19 +403,19 @@ Users can get more information about The Good Reader on the About page. There is
 
 #### Contact Page
 
-![Contact Page](/static/site_images/contact.png)
+![Contact Page](/static/site_images/contactpage.png)
 
 Users will be able to contact the site administrators through the form.
 
 #### Authors Page
 
-![Author Page](/static/site_images/authors.png)
+![Author Page](/static/site_images/authorspage.png)
 
 This link lets users view and read more about the authors' lives.
 
 #### Bug Report Page
 
-![Bug Report Page](/static/site_images/bugreport.png)
+![Bug Report Page](/static/site_images/bugreportpage.png)
 
 Through these pages, users can send a report to the administrator notifying any problem on the site that he finds.
 
