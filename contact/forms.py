@@ -10,7 +10,7 @@ class ContactForm(forms.ModelForm):
         model = Contact
         fields = [
             'name',
-            'email',            
+            'email',
             'title',
             'description',
         ]
