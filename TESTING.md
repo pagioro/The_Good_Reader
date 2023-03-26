@@ -117,28 +117,116 @@
 
 ## **Manual Testing**
 
-### Header
-
 #### Navigation Bar (Nav-Bar)
 
-* Expected Outcome: The navigation bar should be visible on every site page. The navigation bar should toggle if the page is rendered on smaller screens for a better user experience. 
-* Test: Visit every site page to check if the navigation bar is visible. View the navigation bar on different size screens to check the responsiveness of the navigation bar and toggle function. 
-* Result: The navigation bar is visible on every site page. The links are toggled for a better user experience when viewed on smaller screens. 
-* Verdict: Code functions as intended.
+* Expected result: The navigation bar should be visible on every page of the site. If the page is rendered on different screens the navigation bar should be proportionally visible.
+* Test: Access every page of the site to check if the navigation bar is visible. View the navigation bar on different size screens to check the proportionality of the navigation bar.
+* Result: approved.
 
 #### Logo
 
-* Expected Outcome: When clicking the logo, the user should be redirected to the home page.
-* Test: I tried clicking the logo from all different site pages as a logged-in user or not. 
-* Result: Whenever I clicked the logo, I was redirected to the home page.
-* Verdict: Code functions as intended.
+* Expected result: The user should be redirected to the home page when clicking The Good Reader logo.
+* Test: Click The Good Reader logo from all different pages of the site.
+* Result: approved.
 
 #### Home Link
 
-* Expected Outcome: The user should be redirected to the Home page when clicking the Home link.
-* Test: I tried clicking the Home link from all different pages on the site, both as a logged-in user and not.
-* Result: Whenever I clicked the Home link, I was redirected to the home page. 
-* Verdict: Code functions as intended.
+* Expected result: The user should be redirected to the Home page when clicking the Home link. When viewing the Home page there are a welcome text, a delivery information text and a Shop Now link option.
+* Test: Click the Home link from all different pages of the site in accordance with the expected result.  
+* Result: approved.
+
+#### About Link
+* Expected result: The user should be redirected to the About page when clicking the About link.
+* Test: Click the About link from all different pages of the site.
+* Result: approved.
+
+#### Books Link
+* Expected result: The dropdown menu should appear displaying the All Books option and the different categories when clicking the Books link.
+* Test: Click the Books link from all the different pages of the site.
+* Result: approved.
+
+#### Books Link - All Books
+* Expected result: The user should be redirected to the All Books page when clicking the All Books link. On the top should appear categories buttons, sort by button and the number of products displayed. The user should choose to sort the books by name, author, and ascending/descending prices. Each book should show an image, author, name and price.
+* Test: Click the All Books link from all the different pages of the site in accordance with the expected result. 
+* Result: approved.
+
+#### Books Link - Different categories
+* Expected result: The user should be redirected to the Books category page when clicking the category link. On the top should appear categories buttons, sort by button, Products Home link and the number of products displayed. Each book should show an image, author, name and price.
+* Test: Click the category link from all the different pages of the site and check the result in accordance with the expected result. Repeat the test for all categories.
+* Result: approved.
+
+#### Books Detail
+* Expected result: The user should be redirected to the Book detail when clicking the specific book. Each book should show the image, author, name,  price and description. The quantity option should show with plus and minus buttons. The Keep shopping and Add to bag buttons should show. The Keep shopping should take the user back to the All Products page. The Add to the bag should take the user to the bag option. 
+* Test: Click in the specific book and check the result in accordance with the expected result. Try to enter an invalid quantity input such as letters and check the message Enter a number when the button Add to bag is clicked. 
+* Result: approved.
+
+#### Shop Now link
+* Expected result: The user should be redirected to the All Books page when clicking the Shop Now link. On the top should appear categories buttons, sort by button and the number of products displayed. Each book should show an image, author, name and price.
+* Test: Click the Shop Now link on the Home page and check the result in accordance with the expected result.
+* Result: approved.
+
+#### Authors Link
+* Expected result: The user should be redirected to the Authors page when clicking the Authors link. Each author should show the photo, name, country, known for and description.
+* Test: Click the Authors link from all different pages of the site and check the result in accordance with the expected result.
+* Result: approved.
+
+#### Contact Link
+* Expected result: The user should be redirected to the Contact Us page when clicking the Contact link. The user fills out the name, email, title and description. The user should click on the Send button. The site administrator user should view the contact data disposable the site administration option so that can be added, changed and delete the contact.
+* Test: Click the Contact link from all different pages of the site.
+Fill out the name, email, title and description. Click on the Send button. As a site administrator user view the contact data disposable the site administration option and adds, changes and deletes the contact.
+* Result: approved.
+
+#### Bug Report Link
+* Expected result: The user should be redirected to the Bug Report page when clicking the Bug Report link. The user fills out the title, description, browser, os and email. The user should click on the Send button. The site administrator user should view the bug report data disposable the site administration option so that can be added, changed and delete the bug report.
+* Test: Click the Bug Report link from all different pages of the site.
+Fill out the title, description, browser, os and email. Click on the Send button. As a site administrator user view the bug report data disposable the site administration option and adds, changes and deletes the bug report.
+* Result: approved.
+
+#### Search Field
+* Expected result: When entering search criteria in the Search Field the items matching should be displayed. The number of matches should also be presented. If no items match the search criteria it should be shown that there are no products found when searching for that specific criteria. 
+* Test: Entered different search criteria to test search functionality in accordance with the expected result. 
+* Result: approved.
+
+#### Footer
+* Expected result: The footer should be visible on all pages bottom of the site. 
+* Test: Check the footer is visible on all pages bottom of the site.
+* Result: approved.
+
+#### Footer Social Media Links
+* Expected result: The Facebook, Instagram and Twitter icons in the footer linking to the social media accounts should be opened up in new tabs when clicked.
+* Test: Click the social media icons in the footer and check the options opened up in new tabs when clicked.
+* Result: approved.
+
+#### Newsletter Subscription
+* Expected result: The user should be entering an email address and the email address should be visible in the site administrator user Mailchimp account.
+* Test: Enter an email address, click on subscribe button and check the successful message. Enter an invalid email address without an @ and check the message asking for an email address valid. Access the mailchimp.com site administrator user account and check the email address shown in the audience all contacts option.
+* Result: approved.
+
+#### My Account Link
+* Expected result: When clicking the My Account link a dropdown menu should appear, displaying the Register and Login options if the user is logged out or displaying the My Profile and Logout options if the user is logged in or displaying the Product Management, My Profile and Logout options if the site administrator user is logged in.
+* Test: Click the My Account link when the user is logged in or not and when the site administrator user is logged in accordance with the expected result.
+* Result: approved.
+
+#### Login
+* Expected result: Login of the site.      
+* Test: Click the Login option on the My Account icon and should be redirected to the Sign-in page. 
+The login requires filling out the username and password. The Sign In option has the Remember me and Forgot password options.
+If the user has forgotten the password should request to have a password reset by clicking the Forgot Password button and filling out the email address and clicking the Reset my password button. The site user should receive a reset link email to change the password access.
+Try entering the incorrect login and should be shown the message The username and/or password you specified are not correct.
+Try entering the correct login and should be shown the My Profile e Logout options on the My Account icon.
+* Result: approved.
+
+#### 
+*
+*
+*
+
+#### 
+*
+*
+*
+
+
 
 
 
