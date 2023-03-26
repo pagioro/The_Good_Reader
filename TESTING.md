@@ -243,6 +243,11 @@ The order history list should show the order number, date, items and order total
 * Test: Login with a site administrator user and choose Product Management from the My Account icon. You should be redirected to the Product Management page. The registration requires filling out the category, sku, name, author, description, price and image to create a new product and should click on the Add product button.
 * Result: approved. 
 
+#### Add product to Shopping Bag
+* Expected result: The add product to the Shopping Bag function should be working correctly.      
+* Test: Click on the specific book, choose the quantity and click the Add to bag button. The Add Bag success message should show.  
+* Result: approved. 
+
 #### Shopping Bag
 * Expected result: The Shopping bag function working correctly.      
 * Test: The shopping bag icon should show all items in the bag.
@@ -251,10 +256,17 @@ If there are items in the bag should be displayed. The user should change the qu
 If there aren't items in the bag should show Your bag is empty message and a Keep shopping button to take the user back to the All Products view.
 * Result: approved. 
 
-#### 
-*
-*
-*
+#### Checkout
+* Expected result: The Checkout function working correctly and a complete order should be made successfully.
+* Test: Click the Shopping Bag icon, to view and check the bag items. 
+Click the Secure Checkout button and the Checkout page should show with order summary, items, order total, delivery, grand total, details, delivery and payment option.
+The details require filling out the full name and email address. 
+The delivery requires filling out the phone number, street address 1/2, town or city, county, state or locality, postal code and country.
+If the user is logged in, the email address detail and delivery information should be filled out automatically.
+Inform the card number in payment.
+Click the Complete Order button.
+The order confirmation should be shown and a confirmation email sent to the email address.
+* Result: approved. 
 
 ## **Code Validation**
 
