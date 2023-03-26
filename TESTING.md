@@ -24,7 +24,30 @@
 
 ## **Test User Stories**
 
-I will do it later
+1. As a customer I can view a list of products so that I can select some purchases.
+- Any customer can access directly from the Shop Now link in the Home nav bar where all the books are displayed by category or from the All Products view in the Books dropdown link in the nav bar.
+
+2. As a customer I can view a specific product category so that I can find products I'm interested in without having to search through all products.
+- Any customer can access each category directly from the Shop Now link in the Home nav bar where all the categories are displayed or from the Books dropdown link in the nav bar or from the All Products view, where buttons link to all the different categories.
+
+3. As a customer I can view individual product details so that I can identify the author, name, price, description and image.
+- Any customer can click the image of a certain book to get redirected to a detailed view. The customer gets all information about that specific book, such as image, author, name, price and description.
+
+4. As a customer I can view the total of my purchases so that I can define my investment at any time.
+- Any customer can click the shopping bag icon in the nav bar to get a full overview of their Shopping bag. The Keep Shopping button can be clicked if the Shopping bag is empty. If there are items in the bag, the user will see the bag total, delivery, grand total, image, name, sku, price each, subtotal, quantity, total cost and also has the option to change the quantity or remove the item. The customer can keep shopping or proceed to secure checkout.
+
+5. As a customer I can view the about option so that I can view the description, email and phone number of the about option.
+- Any customer can access the About link in the nav bar and gets information about the description, email and phone number.
+
+6. As a customer I can view the author's option so that I can view the photo, name, country, known for and description of the author's option.
+- Any customer can access the Authors link in the nav bar and gets information about the photo, name, country, known for and description of the author.
+
+7. As a customer I can view the Contact Us option so that I can view the options to fill out my name, email, title and description to submit them of the Contact Us option.
+- Any customer can access the Contact link in the nav bar or foot pager and fill out the name, email, title and description to send to the site administrator user.
+
+8. As a customer I can view the Bug Report option so that I can send a bug report and fill out my title, description, browser, os and email.
+- Any customer can access the Bug Report link in the nav bar and fill out the title, description, browser, os and email to send to the site administrator user.
+
 
 [Back to content](#contents)
 

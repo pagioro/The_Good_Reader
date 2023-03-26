@@ -323,7 +323,7 @@ When customers finish shopping, they can click the checkout to complete their pu
 | Key:       | Name:           | Type:         |
 |------------|-----------------|---------------|
 |            | name            | CharField     |
-|            | email           | EmailField     |
+|            | email           | EmailField    |
 |            | title           | CharField     |
 |            | description     | CharField     |
 
@@ -358,13 +358,13 @@ When customers finish shopping, they can click the checkout to complete their pu
 |            | default_country         | CountryField  |
 
 *Bug Report Form*
-| Key:       | Name:                   | Type:         |
-|------------|-------------------------|---------------|
-|            |                         |               |
-
-
-
-
+| Key:       | Name:           | Type:         |
+|------------|-----------------|---------------|
+|            | title           | CharField     |
+|            | description     | CharField     |
+|            | browser         | CharField     |
+|            | os              | CharField     |
+|            | email           | EmailField    |
 
 [Back to content](#contents)
 
@@ -880,9 +880,8 @@ References used and Inspiration:
 * [Bootstrap](https://getbootstrap.com/)
 * [Django Docs](https://docs.djangoproject.com/en/4.0/)
 * [Stack Overflow](https://stackoverflow.com/)
-* [w3 Schools](https://www.w3schools.com/)
+* [W3 Schools](https://www.w3schools.com/)
 * [Crispy Forms Docs](https://django-crispy-forms.readthedocs.io/en/latest/)
-* [Markdown Tables Generator](https://www.tablesgenerator.com/)
 * [Project Boutique Ado from Code Institute](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+EA101+2021_T1/courseware/eb05f06e62c64ac89823cc956fcd8191/3adff2bf4a78469db72c5330b1afa836/)
 
 ### **Acknowledgements**
@@ -890,20 +889,3 @@ References used and Inspiration:
 fazer depois
 
 [Back to content](#contents)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
