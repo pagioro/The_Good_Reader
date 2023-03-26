@@ -904,6 +904,6 @@ References used and Inspiration:
 
 ### **Acknowledgements**
 
-fazer depois
+I would first like to thank the entire Code Institute team for providing such rich learning content. The team of tutors who helped me solve the problems of the project during the course, my wife Luciana, all my family and my friend Rodrigo for their encouragement and motivation, so that I didn't give up and to finish my excellent mentor Richard Well who helped me a lot with his knowledge, his inspiration and his patience.
 
 [Back to content](#contents)
