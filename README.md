@@ -401,6 +401,24 @@ An image showing a boy reading a book. The image has a brief description of the 
 
 Users can get more information about The Good Reader on the About page. There is also contact information so the user can quickly contact us. 
 
+#### Contact Page
+
+![Contact Page](/static/site_images/contact.png)
+
+Users will be able to contact the site administrators through the form.
+
+#### Authors Page
+
+![Author Page](/static/site_images/authors.png)
+
+This link lets users view and read more about the authors' lives.
+
+#### Bug Report Page
+
+![Bug Report Page](/static/site_images/bugreport.png)
+
+Through these pages, users can send a report to the administrator notifying any problem on the site that he finds.
+
 #### All Products
 
 ![Products Page](/static/site_images/books-page.png)
