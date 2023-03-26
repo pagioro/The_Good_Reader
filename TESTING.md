@@ -216,19 +216,45 @@ Try entering the incorrect login and should be shown the message The username an
 Try entering the correct login and should be shown the My Profile e Logout options on the My Account icon.
 * Result: approved.
 
-#### 
-*
-*
-*
+#### Logout
+* Expected result: Logout of the site.      
+* Test: Click the Logout option on the My Account icon and should be redirected to the Sign Out page. 
+The Cancel and Sign Out buttons should show. 
+If the user cancel should be redirected back to the Home page and remain logged in.
+If the user Sign Out should be redirected back to the Home page and should be logged out. 
+* Result: approved.
+
+#### Register
+* Expected result: Register successful.  
+* Test: Choose Register from the My Account icon. You should be redirected to the Sign Up page.
+The registration requires filling out the username, email address, password and password confirmation.
+If the username or email address has already been used to sign up for an account the user should be requested to choose a new one.
+If the username and email address have not already been used to sign up for an account the user should be registered and an email confirmation should be sent to confirm the account registration.
+* Result: approved.
+
+#### My Profile
+* Expected result: My Profile successful.
+* Test: Choose My Profile from the My Account icon. You should be redirected to the My Profile page that shows default delivery information and order history. The registration requires filling out the phone number, street address 1/2, town or city, county, state or locality, postal code and country. To confirm the update should click on the Update information button.
+The order history list should show the order number, date, items and order total realized previously.
+* Result: approved.
+
+#### Product Management
+* Expected result: Product Management successful.      
+* Test: Login with a site administrator user and choose Product Management from the My Account icon. You should be redirected to the Product Management page. The registration requires filling out the category, sku, name, author, description, price and image to create a new product and should click on the Add product button.
+* Result: approved. 
+
+#### Shopping Bag
+* Expected result: The Shopping bag function working correctly.      
+* Test: The shopping bag icon should show all items in the bag.
+The bag should show product info, price each, subtotal, bag total, delivery cost and grand total. 
+If there are items in the bag should be displayed. The user should change the quantity, and update or delete selected items. The total should be adjusted. The user should choose the option to proceed to Secure Checkout or Keep Shopping.
+If there aren't items in the bag should show Your bag is empty message and a Keep shopping button to take the user back to the All Products view.
+* Result: approved. 
 
 #### 
 *
 *
 *
-
-
-
-
 
 ## **Code Validation**
 
