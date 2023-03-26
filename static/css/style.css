@@ -185,9 +185,6 @@ input[name='q']::placeholder {
   border: 1px solid #F8EDE3;
 }
 
-#navBarSearchForm input[type=text] {
-  width:430px !important;
-}
 
 /* Icons Fontawesome */
 
@@ -334,10 +331,6 @@ input[name='q']::placeholder {
 .bugreport {
   background-color: #fff;
 }
-
-/* login/logout/signin pages */
-
-
 
 /* Product Detail */
 /* Products */
@@ -612,4 +605,11 @@ color: #17a2b8; /* text-info */
   .increment-qty, .decrement-qty {
       padding: .25rem .5rem !important;
   }
+}
+
+@media (max-width: 576px) {
+    .message-index {
+      margin-left: 0.938rem;
+    }
+
 }
