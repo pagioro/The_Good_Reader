@@ -573,11 +573,34 @@ Testing was done manually throughout the development process. The full rundown o
 from email = models.CharField(max_length=254) 
 to email = models.EmailField(max_length=254)
 
+* **Bug:** When an email address without @ was filled out in the email address Bug Report option, no error message was displayed when send button was clicked. 
+    
+    **Solution:** The code was changed in BugReport/models.py:
+from email = models.CharField(max_length=254) 
+to email = models.EmailField(max_length=254)
+
+* **Bug:** 
+    
+    **Solution:** 
+
+* **Bug:** 
+    
+    **Solution:** 
+
 
 
 ### Known Bugs
 
-fazer depois
+* **Sort Functionality by category:** 
+    If a user has used the Sort By button by category, all products on the page will be displayed and sorted instead of just the ones that matched your sort by criteria. 
+
+* **Add product to Bag with quantity in the blank:** 
+    If a user has added a product to the Shopping Bag function with quantity without information, blank, an error page is displayed.
+
+
+
+
+
 
 [Back to content](#contents)
 
