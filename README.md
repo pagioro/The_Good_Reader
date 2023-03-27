@@ -568,6 +568,7 @@ Testing was done manually throughout the development process. The full rundown o
 ## **Bugs**
 
 * **Bug:** When an email address without @ was filled out in the email address Contact Us option, no error message was displayed when send button was clicked. 
+    
     **Solution:** The code was changed in Contatct/models.py:
 from email = models.CharField(max_length=254) 
 to email = models.EmailField(max_length=254)
