@@ -579,15 +579,13 @@ to email = models.EmailField(max_length=254)
 from email = models.CharField(max_length=254) 
 to email = models.EmailField(max_length=254)
 
-* **Bug:** 
+* **Bug:** There was an error on my profile page, and this error was in the views file.
     
-    **Solution:** 
+    **Solution:** To solve the problem, I had to import the user profile.
 
-* **Bug:** 
+* **Bug:** In settings.py, I had placed contexts in templates which gave me an error when opening the site.
     
-    **Solution:** 
-
-
+    **Solution:** To solve the problem, I just had to remove the s from contexts.
 
 ### Known Bugs
 
