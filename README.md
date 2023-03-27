@@ -595,11 +595,6 @@ to email = models.EmailField(max_length=254)
 * **Add product to Bag with quantity in the blank:** 
     If a user has added a product to the Shopping Bag function with quantity without information, blank, an error page is displayed.
 
-
-
-
-
-
 [Back to content](#contents)
 
 ## **Technology Used**
