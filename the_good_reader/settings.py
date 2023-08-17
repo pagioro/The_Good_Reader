@@ -33,7 +33,8 @@ SECRET_KEY = os.environ.get('SECRET_KEY', '')
 DEBUG = False
 # DEBUG = 'DEVELOPMENT' in os.environ
 
-ALLOWED_HOSTS = ['the-good-reader.herokuapp.com', 'localhost']
+# ALLOWED_HOSTS = ['the-good-reader.herokuapp.com', 'localhost']
+ALLOWED_HOSTS=[*]
 
 # Application definition
 
